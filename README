@@ -1,0 +1,32 @@
+This is the Harmonic Git Repository.
+
+To use, do the following.
+
+1,Set up public keys in personal preferences on github.
+2,Ask Phil to add you to collaborators on the project.
+
+3,Go to the folder you wish to have the Harmonic folder.
+4,Use the command: git clone git@github.com:pClamp/Harmonic.git
+
+If you've added a new file
+5, git add 'file name here' (alternatively you can use a dot to add all)
+
+This will create and download the current source code repository onto your computer.
+Make your changes and commit:
+6, git commit -a -m 'write the changes you made here'
+
+Upload the changes to the git repository:
+7, git push
+
+===================================================================
+
+When you next come to work on Harmonic stuff
+
+8, git pull
+This command will update the current version to the one in the repository (obviously you might not need to do this if you haven't pushed what you've already done.
+
+At least this is the way that I understand it - not got my head around the version control part of it yet :)
+
+
+
+
