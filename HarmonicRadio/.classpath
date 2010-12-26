@@ -2,13 +2,13 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/jna.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/mysql-connector-java-5.1.13-bin.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/platform.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/vlcj-1.1.4.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/vlcj-1.1.4-javadoc.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/vlcj-1.1.4-sources.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/vlcj-1.1.4-test.jar"/>
-	<classpathentry kind="lib" path="/home/phil/Dropbox/Software Engineering/Harmonic Radio/External Libraries/vlcj-1.1.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/jna.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/platform.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.4.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.4-sources.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.4-test.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.4-test-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
