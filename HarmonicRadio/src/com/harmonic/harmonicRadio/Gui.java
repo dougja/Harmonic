@@ -90,14 +90,8 @@ class Gui implements ChangeListener
 			case VOLUME:; break;
 			case TUNER:
 			{
-				try 
-				{
-					player.playnewURL(source.getValue());	
-				} 
-				catch (InterruptedException e1) 
-				{
-					e1.printStackTrace();
-				}
+				//player.playnewURL(source.getValue());
+				player.setPlayOn();
 			}
 			break;
 		}
