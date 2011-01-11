@@ -1,8 +1,10 @@
-package com.harmonic.harmonicRadio;
+package com.harmonic.HarmonicRadio;
 
 // handles the GUI and the changing of global variables via the control components
 
 // --- fix ---
+
+
 import java.util.Hashtable; 
 import javax.swing.*;
 import javax.swing.event.*;

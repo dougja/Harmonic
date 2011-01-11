@@ -5,7 +5,9 @@
  * played back. 
  =================================================================*/
 
-package com.harmonic.harmonicRadio;
+package com.harmonic.HarmonicRadio;
+
+
 
 import uk.co.caprica.vlcj.player.MediaPlayer;
 import uk.co.caprica.vlcj.player.MediaPlayerFactory;

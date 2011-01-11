@@ -1,4 +1,4 @@
-package com.harmonic.harmonicRadio;
+package com.harmonic.HarmonicRadio;
 
 import java.awt.*;
 import java.awt.image.*;

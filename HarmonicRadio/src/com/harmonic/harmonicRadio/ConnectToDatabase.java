@@ -1,63 +1,66 @@
-package com.harmonic.harmonicRadio;
+package com.harmonic.HarmonicRadio;
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import javax.xml.parsers.DocumentBuilderFactory;
+import javax.xml.parsers.DocumentBuilder;
+import org.w3c.dom.Document;
+import org.w3c.dom.NodeList;
+import org.w3c.dom.Node;
+import org.w3c.dom.Element;
+import java.io.File;
+import java.util.*;
 
 public class ConnectToDatabase 
 {
-  private Connection conn = null;
-  private String name = "default";
-  private String url;
-  private String country = "default";
-  private String genre = "default";
-  private String song_name = "default";
-  private Boolean range = true;
-  private Statement stmt = null;
-  private ResultSet result = null;
-  private String db_url;
-  private String username;
-  private String password;
-  
-  ConnectToDatabase(String db_url, String username, String password)
-  {
-      this.db_url = db_url;
-      this.username = username; 
-      this.password = password;
-  }
-  void establishConnection()
-  {
-	  try
-	  {
-		  Class.forName("com.mysql.jdbc.Driver").newInstance();
-		  conn = DriverManager.getConnection(db_url,username,password);	  
-	  }
-	  catch (ClassNotFoundException ex) {System.err.println(ex.getMessage());}
-      catch (IllegalAccessException ex) {System.err.println("illegal access");}
-      catch (InstantiationException ex) {System.err.println("instantiation error");}
-      catch (SQLException ex)           {System.err.println(ex.getMessage());}
-  }
-  
-  URLObject search(int index)
-  {
-	  URLObject url_object = null;
-	  try
-	  {
-		  conn.commit();
-		  conn.setAutoCommit(true);
-		  stmt = conn.createStatement();
-		  result = stmt.executeQuery("SELECT * FROM streams WHERE id='107'");
-		  url = result.getString(1);
-		  url_object = new URLObject(name,url,country,genre,range,song_name);
-	  }
-	  catch(SQLException e)
-	  {
-		  System.out.println(e);
-	  }
-		  
-	  return url_object;	  
-		  
-  }
-}
+	 static NodeList nodes = null;
+	 private File xml = null;
+	 private DocumentBuilderFactory factory = null;
+	 private DocumentBuilder builder = null;
+	 private Document doc = null;
+	 private String fileName = null;
+	 ArrayList<URLObject> urlList = null;
+	 
+	 public ConnectToDatabase(String filename)
+	 {
+		 fileName = filename;
+		try 
+		{
+	 
+		    xml = new File("streams.xml");
+		    factory = DocumentBuilderFactory.newInstance();
+		    builder = factory.newDocumentBuilder();
+		    doc = builder.parse(xml);
+		    doc.getDocumentElement().normalize();
+		} 
+		catch (Exception e) 
+		{
+			e.printStackTrace();
+		}
+	 }
+	 void createList()
+	 {
+		 nodes = doc.getElementsByTagName("record");
+	 }
+	 void createURLList()
+	 {
+		 urlList = new ArrayList<URLObject>();
+		 for(int i = 0; i < nodes.getLength(); i++)
+		 {
+			 Node node = nodes.item(i);
+			 if (node.getNodeType() == Node.ELEMENT_NODE)
+			 {
+				 Element element = (Element) node;
+				 String urlName = getTagValue("url",element);
+				 URLObject url = new URLObject("xx",urlName,"xx","xx",true,"xx");
+				 urlList.add(url);
+				 
+			 }
+		 }
+	 }
+	 private static String getTagValue(String tag, Element element)
+	 {
+	    NodeList list = element.getElementsByTagName(tag).item(0).getChildNodes();
+	    Node nValue = (Node) list.item(0);	 
+	    return nValue.getNodeValue();    
+	 }
+	 
+	}

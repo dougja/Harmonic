@@ -2,9 +2,11 @@
  * This is the main program class. 
  =================================================================*/
 
-package com.harmonic.harmonicRadio;
+package com.harmonic.HarmonicRadio;
 
 import javax.swing.*;
+
+
 
 class Program implements Runnable
 {
