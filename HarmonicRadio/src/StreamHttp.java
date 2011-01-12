@@ -11,7 +11,6 @@ import uk.co.caprica.vlcj.player.MediaPlayerFactory;
 public class StreamHttp implements Runnable
 {
 	private Thread runner;
-	private ConnectToDatabase db;
 	private MediaPlayerFactory factory;
 	private MediaPlayer streamPlayer;
 	private boolean play = false;
@@ -26,29 +25,19 @@ public class StreamHttp implements Runnable
 		{
 			e.printStackTrace();
 		}
-		start();
+		startThread();
 	}
 	
 	// Initialise the connection to the database and initialise the media player.
 	public void initialise() throws InterruptedException
-	{/*
-		db = new ConnectToDatabase("jdbc:mysql://89.16.179.91:3307/studentd_harmonic","studentd_harmusr","u1?VA!f~ozkS");
-		db.establishConnection();*/
-	  
+	{	  
 		factory = new MediaPlayerFactory(new String[] {});
 		streamPlayer = factory.newMediaPlayer(null);
 	}
 
 	// Play a new URL.
 	void playnewURL(int URLindex) throws InterruptedException
-	{
-		String streamURL;
-		URLObject stream;
-		
-		//find URLindex from GUI
-		/*stream = db.search(URLindex);
-		streamURL = stream.getURL();*/
-	  
+	{	  
 		streamPlayer.playMedia("http://network.absoluteradio.co.uk/core/audio/wmp/live.asx?service=vr");
 		streamPlayer.setPlaySubItems(true);
 		Thread.currentThread().join();
@@ -76,7 +65,7 @@ public class StreamHttp implements Runnable
 		play = false;
 	}
 
-	private void start() 
+	private void startThread() 
 	{
 		if(runner == null) runner = new Thread(this);
 		runner.start();
@@ -84,6 +73,11 @@ public class StreamHttp implements Runnable
 	
 	public void run() 
 	{
+		// Stuff in this thread is executed here.
+		
+		
+		
+		
 		while (runner == Thread.currentThread()) 
 		{
 			try 
