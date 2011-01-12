@@ -10,7 +10,7 @@ import java.awt.*;
 
 class Gui implements ChangeListener
 {
-	private StreamHttp player;
+	private StreamPlayer player;
 	private JFrame window;
 	private Hashtable <Object,Object> components;
 
@@ -29,7 +29,7 @@ class Gui implements ChangeListener
 		addComponents();
 		window.setVisible(true);
 		
-		player = new StreamHttp();
+		player = new StreamPlayer();
 	}
 
 	// adds components to window
@@ -91,7 +91,10 @@ class Gui implements ChangeListener
 			case TUNER:
 			{
 				//player.playnewURL(source.getValue());
-				player.setPlayOn();
+				if (!player.getPlaying()) player.setPlayOn();
+				
+				
+
 			}
 			break;
 		}
