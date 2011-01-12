@@ -1,3 +1,5 @@
+package com.harmonic.HarmonicRadio;
+
 class URLObject
 {
 	private String name;
@@ -6,7 +8,7 @@ class URLObject
 	private String genre;
 	private Boolean range;
 	
-	URLObject(String name, String url, String country, String genre, Boolean range, String song_name)
+	URLObject(String name, String url, String country, String genre, Boolean range)
 	{
 		this.name = name;
 		this.url = url;

@@ -1,3 +1,5 @@
+package com.harmonic.HarmonicRadio;
+
 // handles the GUI and the changing of global variables via the control components
 
 // --- fix ---
@@ -10,7 +12,7 @@ import java.awt.*;
 
 class Gui implements ChangeListener
 {
-	private StreamPlayer player;
+	private StreamHttp player;
 	private JFrame window;
 	private Hashtable <Object,Object> components;
 
@@ -29,7 +31,7 @@ class Gui implements ChangeListener
 		addComponents();
 		window.setVisible(true);
 		
-		player = new StreamPlayer();
+		player = new StreamHttp();
 	}
 
 	// adds components to window
@@ -91,10 +93,7 @@ class Gui implements ChangeListener
 			case TUNER:
 			{
 				//player.playnewURL(source.getValue());
-				if (!player.getPlaying()) player.setPlayOn();
-				
-				
-
+				player.setPlayOn();
 			}
 			break;
 		}

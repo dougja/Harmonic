@@ -1,3 +1,5 @@
+package com.harmonic.HarmonicRadio;
+
 import java.awt.*;
 import java.awt.image.*;
 import javax.swing.*;
