@@ -1,18 +1,20 @@
-package com.harmonic.HarmonicRadio;
-
 // handles the GUI and the changing of global variables via the control components
 
 // --- fix ---
 
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.Dimension;
+import java.util.Hashtable;
 
-import java.util.Hashtable; 
-import javax.swing.*;
-import javax.swing.event.*;
-import java.awt.*;
+import javax.swing.JFrame;
+import javax.swing.JSlider;
+import javax.swing.event.ChangeEvent;
+import javax.swing.event.ChangeListener;
 
 class Gui implements ChangeListener
 {
-	private StreamHttp player;
+	private StreamPlayer player;
 	private JFrame window;
 	private Hashtable <Object,Object> components;
 
@@ -31,7 +33,7 @@ class Gui implements ChangeListener
 		addComponents();
 		window.setVisible(true);
 		
-		player = new StreamHttp();
+		player = new StreamPlayer();
 	}
 
 	// adds components to window

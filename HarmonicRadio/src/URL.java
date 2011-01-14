@@ -1,5 +1,3 @@
-package com.harmonic.HarmonicRadio;
-
 class URLObject
 {
 	private String name;

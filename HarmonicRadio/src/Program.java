@@ -2,9 +2,7 @@
  * This is the main program class. 
  =================================================================*/
 
-package com.harmonic.HarmonicRadio;
-
-import javax.swing.*;
+import javax.swing.SwingUtilities;
 
 
 

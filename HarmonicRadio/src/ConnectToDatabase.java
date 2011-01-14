@@ -1,17 +1,18 @@
-package com.harmonic.HarmonicRadio;
-import javax.xml.parsers.DocumentBuilderFactory;
-import javax.xml.parsers.DocumentBuilder;
-import org.w3c.dom.Document;
-import org.w3c.dom.NodeList;
-import org.w3c.dom.Node;
-import org.w3c.dom.Element;
-import java.io.*;
-import java.util.*;
-import java.net.*;
-
-
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
 import java.io.File;
-import java.util.*;
+import java.io.FileReader;
+import java.io.FileWriter;
+import java.util.ArrayList;
+import java.util.Hashtable;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 public class ConnectToDatabase 
 {

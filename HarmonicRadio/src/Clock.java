@@ -1,11 +1,13 @@
-package com.harmonic.HarmonicRadio;
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.Graphics;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
+import java.util.Calendar;
 
-import java.awt.*;
-import java.awt.image.*;
-import javax.swing.*;
-import java.util.*;
-import java.io.*;
-import javax.imageio.*;
+import javax.imageio.ImageIO;
+import javax.swing.JPanel;
 
 class Clock extends JPanel implements Runnable{
 	Thread runner;
