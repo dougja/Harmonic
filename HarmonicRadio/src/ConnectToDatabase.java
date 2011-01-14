@@ -21,14 +21,14 @@ public class ConnectToDatabase
 	 private DocumentBuilderFactory factory = null;
 	 private DocumentBuilder builder = null;
 	 private Document doc = null;
-	 private String fileName = null;
-	 private ArrayList<URLObject> urlList = null;
-	 private ArrayList<URLObject> playlist = new ArrayList<URLObject>();
+	 private String filename = null;
+	 private ArrayList<Stream> urlList = null;
+	 private ArrayList<Stream> playlist = new ArrayList<Stream>();
 	 private Hashtable<String,Integer> radioNames = new Hashtable<String,Integer>();
 	 
 	 ConnectToDatabase(String filename)
 	 {
-		 fileName = filename;
+		this.filename = filename;
 		try 
 		{
 	 
@@ -49,7 +49,7 @@ public class ConnectToDatabase
 	 }
 	 void createURLList()
 	 {
-		 urlList = new ArrayList<URLObject>();
+		 urlList = new ArrayList<Stream>();
 		 for(int i = 0; i < nodes.getLength(); i++)
 		 {
 			 Node node = nodes.item(i);
@@ -61,7 +61,7 @@ public class ConnectToDatabase
 				 if(stream.equals("Invalid url") == false)
 				 {
 					 
-					 URLObject url = new URLObject(name,stream,"xx","xx",true);
+					 Stream url = new Stream(name,stream,"xx","xx",true);
 					 urlList.add(url);
 					 radioNames.put(name, i);
 				 }
@@ -83,7 +83,7 @@ public class ConnectToDatabase
 	 {
 		 if(playlist.size() < 10)
 		 {
-			URLObject object = findRadioStation(name);
+			Stream object = findRadioStation(name);
 			if(object != null)
 			{
 				playlist.add(object);
@@ -94,11 +94,11 @@ public class ConnectToDatabase
 		 }
 		 return false;
 	 }
-	 ArrayList<URLObject> returnPlaylist()
+	 ArrayList<Stream> returnPlaylist()
 	 {
 		 return playlist;
 	 }
-	 URLObject findRadioStation(String name)
+	 Stream findRadioStation(String name)
 	 {
 		 int i ;
 		 if(radioNames.get(name) != null)
@@ -107,7 +107,7 @@ public class ConnectToDatabase
 			 return null;
 		 
 		 		 
-			 URLObject object = urlList.get(i);
+			 Stream object = urlList.get(i);
 			 return object;
 		 
 		 
@@ -130,13 +130,13 @@ public class ConnectToDatabase
 		 {
 			 System.err.println(e.getLocalizedMessage());
 		 }
-		 playlist = new ArrayList<URLObject>() ;
+		 playlist = new ArrayList<Stream>() ;
 	 }
 	 void loadPlaylist()
 	 {
 		 try
 		 {
-			 playlist = new ArrayList<URLObject>() ;
+			 playlist = new ArrayList<Stream>() ;
 			 BufferedReader reader = new BufferedReader(new FileReader("Playlist.txt"));
 			 String line;
 			 while((line = reader.readLine()) != null)
@@ -144,7 +144,7 @@ public class ConnectToDatabase
 				 String[] split = line.split(",");
 				 System.out.println(split[0]);
 				 boolean range = Boolean.parseBoolean(split[4]);
-				 URLObject object = new URLObject(split[0],split[1],split[2],split[3],range);
+				 Stream object = new Stream(split[0],split[1],split[2],split[3],range);
 				 playlist.add(object);
 			 }
 		 }

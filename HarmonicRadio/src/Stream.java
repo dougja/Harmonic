@@ -1,4 +1,4 @@
-class URLObject
+class Stream
 {
 	private String name;
 	private String url;
@@ -6,7 +6,7 @@ class URLObject
 	private String genre;
 	private Boolean range;
 	
-	URLObject(String name, String url, String country, String genre, Boolean range)
+	Stream(String name, String url, String country, String genre, Boolean range)
 	{
 		this.name = name;
 		this.url = url;
