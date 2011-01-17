@@ -34,6 +34,7 @@ class Gui implements ChangeListener
 		window.setVisible(true);
 		
 		player = new StreamPlayer();
+		IPSeeker ip = new IPSeeker();
 	}
 
 	// adds components to window
