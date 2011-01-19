@@ -44,6 +44,10 @@ public class Compilations
 		player.updateRadio(object.getURL());
 		player.setPlayOn();
 	}
+	void stopStream()
+	{
+		player.stopStream();
+	}
 	public void newStation(Stream nowPlaying)
 	{
 		recentlyPlayed.add(nowPlaying);

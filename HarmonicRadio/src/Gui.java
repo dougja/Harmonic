@@ -31,12 +31,11 @@ class Gui implements ChangeListener
     	window.setLocationByPlatform(true);
     	window.setVisible(true);
 		addComponents();
-		window.setVisible(true);
-		
-		player = new StreamPlayer();
-		IPSeeker ip = new IPSeeker();
+		window.setVisible(true);		
 		comp = new Compilations();
 		comp.choosePlaylist("recent");
+		IPSeeker ip = new IPSeeker();
+		
 	}
 
 	// adds components to window
@@ -99,7 +98,14 @@ class Gui implements ChangeListener
 			{
 				//player.playnewURL(source.getValue());
 				//player.setPlayOn();
-				comp.scroll(source.getValue());
+				if(source.getValue() >= 2)
+				{
+					comp.stopStream();
+					comp.scroll(source.getValue());
+				}
+				else
+					comp.scroll(source.getValue());
+					
 				
 			}
 			break;
