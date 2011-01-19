@@ -11,7 +11,6 @@ public class IPSeeker {
 	private static void findMyCountry() {
 		InetAddress thisIp = null;
 		
-		
 	     try {
 			thisIp =InetAddress.getLocalHost();
 		} catch (UnknownHostException e) {

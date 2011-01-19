@@ -1,7 +1,9 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Compilations
 {
+	private HashMap<String, ArrayList<Stream>> compilations;
 	private ArrayList<Stream> recentlyPlayed;
 	
 	//------------------------------------------------------------------//
@@ -10,7 +12,9 @@ public class Compilations
 	//------------------------------------------------------------------//
 	public Compilations()
 	{
+		this.compilations = new HashMap<String, ArrayList<Stream>>();
 		this.recentlyPlayed = new ArrayList<Stream>();
+		compilations.put("recent", recentlyPlayed);
 	}
 	
 	//------------------------------------------------------------------//
