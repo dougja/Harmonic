@@ -17,7 +17,7 @@ class Gui implements ChangeListener
 	private StreamPlayer player;
 	private JFrame window;
 	private Hashtable <Object,Object> components;
-
+    private Compilations comp  = null;
 	// initialises Gui
 	Gui()
 	{
@@ -35,6 +35,8 @@ class Gui implements ChangeListener
 		
 		player = new StreamPlayer();
 		IPSeeker ip = new IPSeeker();
+		comp = new Compilations();
+		comp.choosePlaylist("recent");
 	}
 
 	// adds components to window
@@ -96,7 +98,9 @@ class Gui implements ChangeListener
 			case TUNER:
 			{
 				//player.playnewURL(source.getValue());
-				player.setPlayOn();
+				//player.setPlayOn();
+				comp.scroll(source.getValue());
+				
 			}
 			break;
 		}

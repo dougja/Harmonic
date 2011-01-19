@@ -15,6 +15,8 @@ public class StreamPlayer implements Runnable
 	private MediaPlayer streamPlayer;
 	private boolean play = false;
 	private ConnectToDatabase connect = null;
+	private String radio = null;
+	
 
 	//------------------------------------------------------------------//
 	// The constructor for the class. Initialises the player factory and
@@ -38,9 +40,6 @@ public class StreamPlayer implements Runnable
 	{
 		// needs to connect to the database.
 		connect = new ConnectToDatabase("streams.xml");
-		connect.createList();
-		connect.createURLList();
-		
 		factory = new MediaPlayerFactory(new String[] {});
 		streamPlayer = factory.newMediaPlayer(null);
 	}
@@ -48,13 +47,15 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	// This method starts stream playback.
 	//------------------------------------------------------------------//
-	void playnewURL() throws InterruptedException
-	{	  
-		Stream object = null;
-		object = connect.findRadioStation("TWR-UK");
-		streamPlayer.playMedia(object.getURL());
-		streamPlayer.setPlaySubItems(true);
-		Thread.currentThread().join();
+	void playnewURL(String url)
+	{
+		try 
+		{
+			streamPlayer.playMedia(url);
+			streamPlayer.setPlaySubItems(true);
+			Thread.currentThread().join();
+		}
+		catch (InterruptedException e) {e.printStackTrace();}
 	}
 	
 	//------------------------------------------------------------------//
@@ -62,6 +63,7 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	void stopStream()
 	{
+		this.play = false;
 		streamPlayer.stop();
 	}
 	
@@ -96,14 +98,6 @@ public class StreamPlayer implements Runnable
 	{
 		this.play = true;
 	}
-	
-	//------------------------------------------------------------------//
-	// This method stops the stream playing.
-	//------------------------------------------------------------------//
-	public void setPlayOff()
-	{
-		this.play = false;
-	}
 
 	//------------------------------------------------------------------//
 	// This method starts the thread associated with this class.
@@ -120,8 +114,13 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	// Executes on this thread.
 	//------------------------------------------------------------------//
+	void updateRadio(String radio0)
+	{
+		radio = radio0;
+	}
 	public void run() 
 	{
+		
 		while (runner == Thread.currentThread()) 
 		{
 			try 
@@ -129,7 +128,7 @@ public class StreamPlayer implements Runnable
 				Thread.sleep(500);
 				if (play)
 				{
-					playnewURL();
+					playnewURL(radio);
 				}	
 			}
 			catch(InterruptedException e) 
@@ -137,5 +136,13 @@ public class StreamPlayer implements Runnable
 				System.out.println("Thread failed");
 			}
 		}
+	}
+	void refreshDatabase(String filename)
+	{
+		connect = new ConnectToDatabase(filename);
+	}
+	ConnectToDatabase returnConnection()
+	{
+		return connect;
 	}
 }

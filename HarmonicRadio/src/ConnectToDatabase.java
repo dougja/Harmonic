@@ -47,7 +47,7 @@ public class ConnectToDatabase
 	 {
 		 nodes = doc.getElementsByTagName("record");
 	 }
-	 void createURLList()
+	 void createStreamList()
 	 {
 		 urlList = new ArrayList<Stream>();
 		 for(int i = 0; i < nodes.getLength(); i++)
@@ -159,6 +159,10 @@ public class ConnectToDatabase
 		 {
 			 System.out.println(playlist.get(i).getName());
 		 }
+	 }
+	 ArrayList<Stream>  returnList()
+	 {
+		 return urlList;
 	 }
 	 
 	}
