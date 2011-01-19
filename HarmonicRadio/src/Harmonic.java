@@ -4,13 +4,11 @@
 
 import javax.swing.SwingUtilities;
 
-
-
-class Program implements Runnable
+class Harmonic implements Runnable
 {
 	public static void main(String[] args)
 	{
-		Program program = new Program();
+		Harmonic program = new Harmonic();
 		SwingUtilities.invokeLater(program);
 	}
   

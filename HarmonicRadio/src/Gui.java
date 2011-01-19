@@ -14,7 +14,6 @@ import javax.swing.event.ChangeListener;
 
 class Gui implements ChangeListener
 {
-	private StreamPlayer player;
 	private JFrame window;
 	private Hashtable <Object,Object> components;
     private Compilations comp  = null;
@@ -34,7 +33,6 @@ class Gui implements ChangeListener
 		window.setVisible(true);		
 		
 		IPSeeker ip = new IPSeeker();
-		
 	}
 
 	// adds components to window
@@ -95,16 +93,17 @@ class Gui implements ChangeListener
 			case VOLUME:; break;
 			case TUNER:
 			{
-				//player.playnewURL(source.getValue());
-				//player.setPlayOn();
 				if(comp != null)
-				  comp.stopStream();
+				{
+					System.out.println("1");
+					comp.stopStream();
+					System.out.println("2");
+				}
+				System.out.println("got here...");
+				
 				comp = new Compilations();
 				comp.choosePlaylist("recent");
-				comp.scroll(source.getValue());
-			
-					
-				
+				comp.play(source.getValue());
 			}
 			break;
 		}

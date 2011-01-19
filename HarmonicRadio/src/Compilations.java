@@ -32,22 +32,19 @@ public class Compilations
 	void choosePlaylist(String playlistName)
 	{
 		current = compilations.get(playlistName);
-		
 	}
-	void scroll(int index)
+	
+	void play(int index)
 	{
-		play(current.get(index));
-	}
-	void play(Stream object)
-	{
-		
-		player.updateRadio(object.getURL());
+		player.updateRadio(current.get(index).getURL());
 		player.setPlayOn();
 	}
+
 	void stopStream()
 	{
 		player.stopStream();
 	}
+	
 	public void newStation(Stream nowPlaying)
 	{
 		recentlyPlayed.add(nowPlaying);

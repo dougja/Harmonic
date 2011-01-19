@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="HarmonicRadio/src"/>
-	<classpathentry kind="lib" path="External Libraries/InetAddressLocator.jar"/>
-	<classpathentry kind="lib" path="External Libraries/jna.jar"/>
-	<classpathentry kind="lib" path="External Libraries/mysql-connector-java-5.1.13-bin.jar"/>
-	<classpathentry kind="lib" path="External Libraries/platform.jar"/>
-	<classpathentry kind="lib" path="External Libraries/vlcj-1.1.5-javadoc.jar"/>
-	<classpathentry kind="lib" path="External Libraries/vlcj-1.1.5.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/home/ugrads/coms2009/mn9182/linux/Software Product Engineering/Harmonic/External Libraries/InetAddressLocator.jar"/>
-	<classpathentry kind="lib" path="/home/ugrads/coms2009/mn9182/linux/Software Product Engineering/Harmonic/External Libraries/jna.jar"/>
-	<classpathentry kind="lib" path="/home/ugrads/coms2009/mn9182/linux/Software Product Engineering/Harmonic/External Libraries/mysql-connector-java-5.1.13-bin.jar"/>
-	<classpathentry kind="lib" path="/home/ugrads/coms2009/mn9182/linux/Software Product Engineering/Harmonic/External Libraries/platform.jar"/>
-	<classpathentry kind="lib" path="/home/ugrads/coms2009/mn9182/linux/Software Product Engineering/Harmonic/External Libraries/vlcj-1.1.5.jar"/>
-	<classpathentry kind="lib" path="/home/ugrads/coms2009/mn9182/linux/Software Product Engineering/Harmonic/External Libraries/vlcj-1.1.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/InetAddressLocator.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/jna.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/platform.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.5.jar"/>
+	<classpathentry kind="lib" path="/home/phil/Dropbox/Harmonic/External Libraries/vlcj-1.1.5-javadoc.jar"/>
 	<classpathentry kind="output" path="HarmonicRadio/bin"/>
 </classpath>

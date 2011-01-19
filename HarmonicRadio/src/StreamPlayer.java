@@ -17,7 +17,6 @@ public class StreamPlayer implements Runnable
 	private ConnectToDatabase connect = null;
 	private String radio = null;
 	
-
 	//------------------------------------------------------------------//
 	// The constructor for the class. Initialises the player factory and
 	// starts the player thread.
@@ -65,6 +64,7 @@ public class StreamPlayer implements Runnable
 	{
 		this.play = false;
 		streamPlayer.stop();
+		streamPlayer.release();
 	}
 	
 	//------------------------------------------------------------------//

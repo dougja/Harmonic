@@ -1,33 +1,28 @@
-import java.net.*;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
 import java.util.Locale;
-import java.io.*;
-import net.sf.javainetlocator.*;
 
-public class IPSeeker {
+import net.sf.javainetlocator.InetAddressLocator;
+import net.sf.javainetlocator.InetAddressLocatorException;
+
+public class IPSeeker
+{
+	private InetAddress thisIP = null;
 	
-	public void IPSeeker() {
-		findMyCountry();
+	public IPSeeker()
+	{
+		this.findMyCountry();
 	}
-	private static void findMyCountry() {
-		InetAddress thisIp = null;
-		
-	     try {
-			thisIp =InetAddress.getLocalHost();
-		} catch (UnknownHostException e) {
-			e.printStackTrace();
-		}
-		
-		try {
-			
-			Locale Ip=InetAddressLocator.getLocale(thisIp);
+	
+	private void findMyCountry() 
+	{
+	    try
+	    {
+			thisIP =InetAddress.getLocalHost();
+			Locale Ip=InetAddressLocator.getLocale(thisIP);
 			System.out.println(Ip.getDisplayName());
-			
-		} catch (InetAddressLocatorException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-
+		} 
+	    catch (UnknownHostException e) {e.printStackTrace();}
+	    catch (InetAddressLocatorException e) {e.printStackTrace();}
 	}
-
 }
