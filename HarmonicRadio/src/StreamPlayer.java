@@ -14,6 +14,7 @@ public class StreamPlayer implements Runnable
 	private MediaPlayerFactory factory;
 	private MediaPlayer streamPlayer;
 	private boolean play = false;
+	private ConnectToDatabase connect = null;
 
 	//------------------------------------------------------------------//
 	// The constructor for the class. Initialises the player factory and
@@ -36,6 +37,9 @@ public class StreamPlayer implements Runnable
 	public void initialise() throws InterruptedException
 	{
 		// needs to connect to the database.
+		connect = new ConnectToDatabase("streams.xml");
+		connect.createList();
+		connect.createURLList();
 		
 		factory = new MediaPlayerFactory(new String[] {});
 		streamPlayer = factory.newMediaPlayer(null);
@@ -46,7 +50,9 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	void playnewURL() throws InterruptedException
 	{	  
-		streamPlayer.playMedia("http://network.absoluteradio.co.uk/core/audio/wmp/live.asx?service=vr");
+		Stream object = null;
+		object = connect.findRadioStation("TWR-UK");
+		streamPlayer.playMedia(object.getURL());
 		streamPlayer.setPlaySubItems(true);
 		Thread.currentThread().join();
 	}
