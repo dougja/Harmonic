@@ -4,10 +4,9 @@ import java.util.HashMap;
 public class Compilations
 {
 	private HashMap<String, ArrayList<Stream>> compilations;
-	private ArrayList<Stream> recentlyPlayed;
-	private ConnectToDatabase connect = null;
+	private ArrayList<Stream> current, recentlyPlayed, ipStations, randomShuffle;
+	private DatabaseConnect connection = null;
 	private StreamPlayer player = null;
-	ArrayList<Stream> current = null;
 	
 	//------------------------------------------------------------------//
 	// The constructor for the class. This should initialise all the
@@ -17,11 +16,10 @@ public class Compilations
 	{
 		this.compilations = new HashMap<String, ArrayList<Stream>>();
 		player = new StreamPlayer();
-		connect = player.returnConnection();
-		connect.createList();
-		connect.createStreamList();
-		recentlyPlayed = connect.returnList();
-		compilations.put("recent", recentlyPlayed);
+		connection.createList();
+		connection.createStreamList();
+		randomShuffle = connection.returnList();
+		compilations.put("shuffle", randomShuffle);
 	}
 	
 	//------------------------------------------------------------------//

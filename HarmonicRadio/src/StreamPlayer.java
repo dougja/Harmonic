@@ -1,8 +1,7 @@
 /*==================================================================
  * This is the class that plays the stream.
- * Currently, this uses the open source vlcj libraries which
- * interface with libvlc. This allows the streams to be easily
- * played back. 
+ * The class uses libvlc to play the streams, and provides
+ * the necessary functionality to control the stream playback.
  =================================================================*/
 
 import uk.co.caprica.vlcj.player.MediaPlayer;
@@ -14,7 +13,6 @@ public class StreamPlayer implements Runnable
 	private MediaPlayerFactory factory;
 	private MediaPlayer streamPlayer;
 	private boolean play = false;
-	private ConnectToDatabase connect = null;
 	private String radio = null;
 	
 	//------------------------------------------------------------------//
@@ -37,8 +35,6 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	public void initialise() throws InterruptedException
 	{
-		// needs to connect to the database.
-		connect = new ConnectToDatabase("streams.xml");
 		factory = new MediaPlayerFactory(new String[] {});
 		streamPlayer = factory.newMediaPlayer(null);
 	}
@@ -46,7 +42,7 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	// This method starts stream playback.
 	//------------------------------------------------------------------//
-	void playnewURL(String url)
+	public void playStream(String url)
 	{
 		try 
 		{
@@ -60,17 +56,26 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	// Method that can stop the stream.
 	//------------------------------------------------------------------//
-	void stopStream()
+	public void stopStream()
 	{
 		this.play = false;
 		streamPlayer.stop();
+	}
+	
+	//------------------------------------------------------------------//
+	// Releases the current stream.
+	//------------------------------------------------------------------//
+	public void killStream()
+	{
+		this.play = false;
+		this.radio = null;
 		streamPlayer.release();
 	}
 	
 	//------------------------------------------------------------------//
 	// Change the volume of the stream to the volume given.
 	//------------------------------------------------------------------//
-	void changeVol(int volume)
+	public void changeVol(int volume)
 	{
 		streamPlayer.setVolume(volume);
 	}
@@ -78,7 +83,7 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	// Mute or unmute the stream.
 	//------------------------------------------------------------------//
-	void muteStream(boolean mute)
+	public void muteStream(boolean mute)
 	{
 		streamPlayer.mute(mute);
 	}
@@ -98,7 +103,15 @@ public class StreamPlayer implements Runnable
 	{
 		this.play = true;
 	}
-
+	
+	//------------------------------------------------------------------//
+	// Updates the current radio station.
+	//------------------------------------------------------------------//
+	public void updateRadio(String radio)
+	{
+		this.radio = radio;
+	}
+	
 	//------------------------------------------------------------------//
 	// This method starts the thread associated with this class.
 	//------------------------------------------------------------------//
@@ -114,10 +127,6 @@ public class StreamPlayer implements Runnable
 	//------------------------------------------------------------------//
 	// Executes on this thread.
 	//------------------------------------------------------------------//
-	void updateRadio(String radio0)
-	{
-		radio = radio0;
-	}
 	public void run() 
 	{
 		
@@ -126,9 +135,9 @@ public class StreamPlayer implements Runnable
 			try 
 			{
 				Thread.sleep(500);
-				if (play)
+				if (play && (radio != null))
 				{
-					playnewURL(radio);
+					playStream(radio);
 				}	
 			}
 			catch(InterruptedException e) 
@@ -136,13 +145,5 @@ public class StreamPlayer implements Runnable
 				System.out.println("Thread failed");
 			}
 		}
-	}
-	void refreshDatabase(String filename)
-	{
-		connect = new ConnectToDatabase(filename);
-	}
-	ConnectToDatabase returnConnection()
-	{
-		return connect;
 	}
 }
