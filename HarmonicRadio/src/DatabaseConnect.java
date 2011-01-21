@@ -25,7 +25,7 @@ public class DatabaseConnect
 	 private ArrayList<Stream> playlist = new ArrayList<Stream>();
 	 private Hashtable<String,Integer> radioNames = new Hashtable<String,Integer>();
 	 
-	 DatabaseConnect(String filename)
+	 DatabaseConnect()
 	 {
 		try 
 		{

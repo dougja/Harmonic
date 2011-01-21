@@ -16,7 +16,9 @@ class Gui implements ChangeListener
 {
 	private JFrame window;
 	private Hashtable <Object,Object> components;
-    private Compilations comp  = null;
+    private Compilations comp;
+    private IPSeeker ip;
+    
 	// initialises Gui
 	Gui()
 	{
@@ -32,7 +34,9 @@ class Gui implements ChangeListener
 		addComponents();
 		window.setVisible(true);		
 		
-		IPSeeker ip = new IPSeeker();
+		comp = new Compilations();
+		comp.choosePlaylist("shuffle");
+		ip = new IPSeeker();
 	}
 
 	// adds components to window
@@ -93,6 +97,7 @@ class Gui implements ChangeListener
 			case VOLUME:; break;
 			case TUNER:
 			{
+				/*
 				if(comp != null)
 				{
 					System.out.println("1");
@@ -102,8 +107,11 @@ class Gui implements ChangeListener
 				System.out.println("got here...");
 				
 				comp = new Compilations();
-				comp.choosePlaylist("recent");
+				comp.choosePlaylist("shuffle");
+				*/
+				
 				comp.play(source.getValue());
+				
 			}
 			break;
 		}

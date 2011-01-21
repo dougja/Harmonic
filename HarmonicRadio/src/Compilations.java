@@ -16,6 +16,7 @@ public class Compilations
 	{
 		this.compilations = new HashMap<String, ArrayList<Stream>>();
 		player = new StreamPlayer();
+		connection = new DatabaseConnect();
 		connection.createList();
 		connection.createStreamList();
 		randomShuffle = connection.returnList();
