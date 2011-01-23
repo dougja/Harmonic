@@ -40,6 +40,7 @@ class Stream
 		return range;
 	}
 	
+	// Meant for debugging.
 	public void showURL()
 	{
 		System.out.println(name+" "+url+" "+country+" "+genre+" "+range);

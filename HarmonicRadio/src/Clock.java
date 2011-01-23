@@ -33,35 +33,35 @@ class Clock extends JPanel implements Runnable{
 		//each of these works out the correct image to place in the 4 positions
 		//(HH:MM:am/pm)
 		try {
-			img1 = ImageIO.read(new File(getImage(0)+".png"));
+			img1 = ImageIO.read(new File("clockImages/"+getImage(0)+".png"));
 		}catch (IOException e) {
 			System.err.println("Image file not found");
 		}
 		
 		BufferedImage img2 = null;
 		try {
-			img2 = ImageIO.read(new File(getImage(1)+".png"));
+			img2 = ImageIO.read(new File("clockImages/"+getImage(1)+".png"));
 		}catch (IOException e) {
 			System.err.println("Image file not found");
 		}
 		
 		BufferedImage img3 = null;
 		try {
-			img3 = ImageIO.read(new File(getImage(2)+".png"));
+			img3 = ImageIO.read(new File("clockImages/"+getImage(2)+".png"));
 		}catch (IOException e) {
 			System.err.println("Image file not found");
 		}
 		
 		BufferedImage img4 = null;
 		try {
-			img4 = ImageIO.read(new File(getImage(3)+".png"));
+			img4 = ImageIO.read(new File("clockImages/"+getImage(3)+".png"));
 		}catch (IOException e) {
 			System.err.println("Image file not found");
 		}
 		
 		BufferedImage img5 = null;
 		try {
-			img5 = ImageIO.read(new File(getImage(4)+".png"));
+			img5 = ImageIO.read(new File("clockImages/"+getImage(4)+".png"));
 		}catch (IOException e) {
 			System.err.println("Image file not found");
 		}
