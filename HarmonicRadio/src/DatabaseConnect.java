@@ -3,22 +3,13 @@ import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOException;
 import java.io.InputStreamReader;
-import java.net.MalformedURLException;
-import java.net.URI;
-import java.net.URISyntaxException;
 import java.net.URL;
 import java.net.URLConnection;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Random;
 
-import javax.swing.text.MutableAttributeSet;
-import javax.swing.text.html.HTML;
-import javax.swing.text.html.HTML.Attribute;
-import javax.swing.text.html.HTML.Tag;
-import javax.swing.text.html.HTMLEditorKit.ParserCallback;
-import javax.swing.text.html.parser.ParserDelegator;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
@@ -68,10 +59,11 @@ public class DatabaseConnect
 	 void createStreamList()
 	 {
 		 urlList = new ArrayList<Stream>();
-		 
-		 for (int i = 0; i < nodes.getLength(); i++)
+		 Random r = new Random(); 
+		 for (int i = 0; i < 10; i++)
 		 {
-			 Node node = nodes.item(i);
+			 int rand = r.nextInt(nodes.getLength());
+			 Node node = nodes.item(rand);
 			 
 			 if (node.getNodeType() == Node.ELEMENT_NODE)
 			 {
@@ -87,9 +79,10 @@ public class DatabaseConnect
 				 }
 			 }
 		 }
+		 printPlaylist(urlList);
 	 }
 	 
-	 // What exactly does this do?
+	 //returns a string depending on which tag you want
 	 private String getTagValue(String tag, Element element)
 	 {
 	    NodeList list = element.getElementsByTagName(tag).item(0).getChildNodes();
@@ -114,7 +107,7 @@ public class DatabaseConnect
 		 }
 		 return false;
 	}
-	 
+	 Random r = new Random(); 
 	public ArrayList<Stream> returnPlaylist()
 	{
 		return playlist;
@@ -174,11 +167,11 @@ public class DatabaseConnect
 		 }
 	 }
 	 
-	 void printPlaylist()
+	 void printPlaylist(ArrayList<Stream> list)
 	 {
-		 for(int i = 0;i < playlist.size();i++)
+		 for(int i = 0;i < list.size();i++)
 		 {
-			 System.out.println(playlist.get(i).getName());
+			 System.out.println(list.get(i).getName());
 		 }
 	 }
 	 

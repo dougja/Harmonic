@@ -1,0 +1,3068 @@
+<records>
+<record>
+<id>1</id>
+<name>95.8 Capital FM</name>
+<tags>Greater London, Pop</tags>
+<url>http://media-ice.musicradio.com/CapitalV1.m3u</url>
+</record>
+<record>
+<id>2</id>
+<name>Choice FM</name>
+<tags>North London &#38; South London, Hip Hop/R&#38;B/Reggae/Flava/Soul</tags>
+<url>http://media-ice.musicradio.com/ChoiceFMV1.m3u</url>
+</record>
+<record>
+<id>3</id>
+<name>Classic FM</name>
+<tags>National, Classical/Romantic/Film Score</tags>
+<url>http://media-ice.musicradio.com/ClassicFMV1.m3u</url>
+</record>
+<record>
+<id>4</id>
+<name>Solar Radio</name>
+<tags>Sky Digital, Soul/Jazz</tags>
+<url>http://icy-e-01.sharp-stream.com/solar32.mp3.m3u</url>
+</record>
+<record>
+<id>5</id>
+<name>Sout Al Khaleej</name>
+<tags>DAB - Greater London, Arabic Programming</tags>
+<url>http://mercury.radica.com/spectrum4</url>
+</record>
+<record>
+<id>6</id>
+<name>3FM</name>
+<tags>Isle of Man, Pop/A.C.</tags>
+<url>http://stream.three.fm:8000/listen.pls</url>
+</record>
+<record>
+<id>7</id>
+<name>Absolute 80s</name>
+<tags>DAB - National, A.C.</tags>
+<url>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a8</url>
+</record>
+<record>
+<id>8</id>
+<name>Absolute Classic Rock</name>
+<tags>DAB - Greater London, Classic Rock</tags>
+<url>http://www.smgradio.com/core/audio/ogg/live.pls?service=vc</url>
+</record>
+<record>
+<id>9</id>
+<name>Absolute Radio (DAB)</name>
+<tags>DAB - National, Contemporary Rock</tags>
+<url>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=vr</url>
+</record>
+<record>
+<id>10</id>
+<name>Absolute Radio 90s</name>
+<tags>DAB - National, A.C./Rock</tags>
+<url>http://network.absoluteradio.co.uk/core/audio/ogg/live.pls?service=a9</url>
+</record>
+<record>
+<id>11</id>
+<name>Absolute Radio 00s</name>
+<tags>DAB - Greater London, Rock</tags>
+<url>http://network.absoluteradio.co.uk/core/audio/aacplus/live.pls?service=a0bb</url>
+</record>
+<record>
+<id>12</id>
+<name>107.8 Arrow FM</name>
+<tags>Hastings, Bexhill &#38; St Leonards, Pop/A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=ARROW</url>
+</record>
+<record>
+<id>13</id>
+<name>96.7 Ashbourne Radio</name>
+<tags>Ashbourne, Dovedale &#38; Wirksworth, A.C./Oldies</tags>
+<url>http://wms7.wavestreamer.com/AshbourneRadio</url>
+</record>
+<record>
+<id>14</id>
+<name>Asian FX</name>
+<tags>DAB - West Midlands, Asian Hits/Bhangra/Bollywood</tags>
+<url>http://streaming.planetwideradio.com/panjab</url>
+</record>
+<record>
+<id>15</id>
+<name>Asian Sound Radio</name>
+<tags>Manchester &#38; East Lancashire, Asian Programming</tags>
+<url>http://87.117.250.2/asiansoundradio</url>
+</record>
+<record>
+<id>16</id>
+<name>BBC Asian Network (West Midlands)</name>
+<tags>West Midlands, Asian Programming</tags>
+<url>http://www.bbc.co.uk/radio/listen/live/ran.asx</url>
+</record>
+<record>
+<id>17</id>
+<name>BBC Coventry &#38; Warwickshire</name>
+<tags>Coventry &#38; Warwickshire, Varied Output for Coventry &#38; Warwickshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrcoventryandwarwickshire</url>
+</record>
+<record>
+<id>18</id>
+<name>BBC Essex (FM)</name>
+<tags>Essex, Varied Output for Essex</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lressex</url>
+</record>
+<record>
+<id>19</id>
+<name>BBC Jersey</name>
+<tags>Jersey, Varied Output for Jersey</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrjersey</url>
+</record>
+<record>
+<id>20</id>
+<name>BBC London 94.9 (FM)</name>
+<tags>Greater London, Varied Output for Greater London</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrlondon</url>
+</record>
+<record>
+<id>21</id>
+<name>BBC Newcastle</name>
+<tags>Tyne &#38; Wear, Varied Output for Tyne &#38; Wear</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrnewcastle</url>
+</record>
+<record>
+<id>22</id>
+<name>BBC Oxford</name>
+<tags>Oxford, Varied Output for Oxford</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lroxford</url>
+</record>
+<record>
+<id>23</id>
+<name>BBC Radio 1 (England)</name>
+<tags>National, Pop/Dance/R&#38;B/Rock</tags>
+<url>http://www.bbc.co.uk/radio/listen/live/r1.asx</url>
+</record>
+<record>
+<id>24</id>
+<name>BBC Radio 2</name>
+<tags>National, A.C./Easy Listening/Varied Output</tags>
+<url>http://www.bbc.co.uk/radio/listen/live/r2.asx</url>
+</record>
+<record>
+<id>25</id>
+<name>BBC 5 live</name>
+<tags>National, News/Sport</tags>
+<url>http://www.bbc.co.uk/radio/listen/live/r5l.asx</url>
+</record>
+<record>
+<id>26</id>
+<name>BBC 6 Music</name>
+<tags>DAB - National, Adult Alternative</tags>
+<url>http://www.bbc.co.uk/radio/listen/live/r6.asx</url>
+</record>
+<record>
+<id>27</id>
+<name>BBC Radio 7</name>
+<tags>DAB - National, Speech/Comedy/Drama/Books/Children's</tags>
+<url>http://www.bbc.co.uk/radio/listen/live/r7.asx</url>
+</record>
+<record>
+<id>28</id>
+<name>BBC Radio Berkshire</name>
+<tags>Berkshire, Varied Output for Berkshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrberkshire</url>
+</record>
+<record>
+<id>29</id>
+<name>BBC Radio Bristol</name>
+<tags>Bristol, Bath &#38; Weston-super-Mare, Varied Output for Bristol, Bath &#38; Weston-super-Mare</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrbristol</url>
+</record>
+<record>
+<id>30</id>
+<name>BBC Radio Cambridgeshire (Cambridge FM)</name>
+<tags>Cambridge, Varied Output for Cambridge</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrcambridgeshire</url>
+</record>
+<record>
+<id>31</id>
+<name>BBC Radio Cornwall</name>
+<tags>Cornwall, Varied Output for Cornwall</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrcornwall</url>
+</record>
+<record>
+<id>32</id>
+<name>BBC Radio Cumbria (FM)</name>
+<tags>Cumbria, Varied Output for Cumbria</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrcumbria</url>
+</record>
+<record>
+<id>33</id>
+<name>BBC Radio Cymru (South Wales)</name>
+<tags>South Wales, Welsh Language Programming</tags>
+<url>http://wmlive.bbc.co.uk/wms/nations/cymru</url>
+</record>
+<record>
+<id>34</id>
+<name>BBC Radio Devon (County FM)</name>
+<tags>Devon, Varied Output for Devon</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrdevon</url>
+</record>
+<record>
+<id>35</id>
+<name>BBC Radio Gloucestershire</name>
+<tags>Gloucestershire, Varied Output for Gloucestershire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrgloucestershire</url>
+</record>
+<record>
+<id>36</id>
+<name>BBC Radio Humberside (FM)</name>
+<tags>Humberside, Varied Output for Humberside</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrhumberside</url>
+</record>
+<record>
+<id>37</id>
+<name>BBC Radio Kent (FM)</name>
+<tags>Kent, Varied Output for Kent</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrkent</url>
+</record>
+<record>
+<id>38</id>
+<name>BBC Radio Lancashire (FM)</name>
+<tags>Lancashire, Varied Output for Lancashire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrlancashire</url>
+</record>
+<record>
+<id>39</id>
+<name>BBC Radio Leeds (FM/DAB)</name>
+<tags>Leeds &#38; Bradford, Varied Output for Leeds &#38; Bradford</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrleeds</url>
+</record>
+<record>
+<id>40</id>
+<name>BBC Radio Leicester</name>
+<tags>Leicester &#38; Rutland, Varied Output for Leicester &#38; Rutland</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrleicester</url>
+</record>
+<record>
+<id>41</id>
+<name>BBC Radio Lincolnshire</name>
+<tags>Lincolnshire, Varied Output for Lincolnshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrlincolnshire</url>
+</record>
+<record>
+<id>42</id>
+<name>BBC Radio Manchester (DAB)</name>
+<tags>DAB - Greater Manchester, Varied Output for Greater Manchester</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrmanchester</url>
+</record>
+<record>
+<id>43</id>
+<name>BBC Radio Merseyside (FM)</name>
+<tags>Merseyside, Varied Output for Merseyside</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrmerseyside</url>
+</record>
+<record>
+<id>44</id>
+<name>BBC Radio Norfolk</name>
+<tags>Norfolk, Varied Output for Norfolk</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrnorfolk</url>
+</record>
+<record>
+<id>45</id>
+<name>BBC Radio Northampton</name>
+<tags>Northamptonshire, Varied Output for Northamptonshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrnorthampton</url>
+</record>
+<record>
+<id>46</id>
+<name>BBC Radio Scotland (FM)</name>
+<tags>Scotland, Varied Output for Scotland</tags>
+<url>http://wmlive.bbc.co.uk/wms/nations/scotland</url>
+</record>
+<record>
+<id>47</id>
+<name>BBC Radio Sheffield (Generally Weekdays: FM, Weekends: AM)</name>
+<tags>South Yorkshire, Varied Output for South Yorkshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrsheffield</url>
+</record>
+<record>
+<id>48</id>
+<name>BBC Radio Shropshire</name>
+<tags>Shropshire, Varied Output for Shropshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrshropshire</url>
+</record>
+<record>
+<id>49</id>
+<name>BBC Radio Solent (Hampshire)</name>
+<tags>Hampshire, Varied Output for Hampshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrsolent</url>
+</record>
+<record>
+<id>50</id>
+<name>BBC Radio Stoke (FM)</name>
+<tags>North Staffordshire &#38; South Cheshire, Varied Output for North Staffordshire &#38; South Cheshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrstoke</url>
+</record>
+<record>
+<id>51</id>
+<name>BBC Radio Suffolk</name>
+<tags>Suffolk, Varied Output for Suffolk</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrsuffolk</url>
+</record>
+<record>
+<id>52</id>
+<name>BBC Radio Ulster (FM)</name>
+<tags>Northern Ireland, Varied Output for Northern Ireland</tags>
+<url>http://wmlive.bbc.co.uk/wms/nations/ulster</url>
+</record>
+<record>
+<id>53</id>
+<name>BBC Radio Wales (AM)</name>
+<tags>Wales, Varied Output for Wales</tags>
+<url>http://wmlive.bbc.co.uk/wms/nations/wales</url>
+</record>
+<record>
+<id>54</id>
+<name>BBC Radio York (York FM)</name>
+<tags>York &#38; Ryedale, Varied Output for York &#38; Ryedale</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lryork</url>
+</record>
+<record>
+<id>55</id>
+<name>BBC Somerset</name>
+<tags>Somerset, Varied Output for Somerset</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrsomerset</url>
+</record>
+<record>
+<id>56</id>
+<name>BBC Surrey</name>
+<tags>Surrey, Varied Output for Surrey</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrsurrey</url>
+</record>
+<record>
+<id>57</id>
+<name>BBC Sussex</name>
+<tags>Sussex, Varied Output for Sussex</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrsussex</url>
+</record>
+<record>
+<id>58</id>
+<name>BBC Tees</name>
+<tags>Cleveland, Varied Output for Cleveland</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrtees</url>
+</record>
+<record>
+<id>59</id>
+<name>BBC Three Counties Radio (Beds, Herts &#38; South Bucks)</name>
+<tags>Bedfordshire, Hertfordshire &#38; South Buckinghamshire, Varied Output for Beds, Herts &#38; South Bucks</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrthreecounties</url>
+</record>
+<record>
+<id>60</id>
+<name>BBC Wiltshire (County)</name>
+<tags>Wiltshire, Varied Output for Wiltshire</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrwiltshire</url>
+</record>
+<record>
+<id>61</id>
+<name>BBC WM</name>
+<tags>Birmingham &#38; Black Country, Varied Output for Birmingham &#38; Black Country</tags>
+<url>http://wmlive.bbc.co.uk/wms/england/lrwm</url>
+</record>
+<record>
+<id>62</id>
+<name>BFBS Radio</name>
+<tags>DAB - National, Pop/A.C./Rock</tags>
+<url>http://mercury.radica.com/bfbs1</url>
+</record>
+<record>
+<id>63</id>
+<name>Bright FM</name>
+<tags>Burgess Hill, Haywards Heath &#38; Lewes, Pop/A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=BRIGHT</url>
+</record>
+<record>
+<id>64</id>
+<name>Buzz Asia (formerly Club Asia)</name>
+<tags>Greater London, Asian Hits/Bhangra/Bollywood</tags>
+<url>mms://193.218.160.20/buzzasia</url>
+</record>
+<record>
+<id>65</id>
+<name>Calvary Chapel Radio</name>
+<tags>Sky Digital, Christian Programming/Speech</tags>
+<url>http://67.228.177.199:8000/listen.pls</url>
+</record>
+<record>
+<id>66</id>
+<name>Capital FM (Birmingham) (formerly Galaxy)</name>
+<tags>Birmingham, Pop</tags>
+<url>http://media-ice.musicradio.com/GalaxyBirminghamV1.m3u</url>
+</record>
+<record>
+<id>67</id>
+<name>Capital FM (East Midlands) (Derbyshire) (formerly RAM FM)</name>
+<tags>Derby, Pop</tags>
+<url>http://media-ice.musicradio.com/RamFMV1.m3u</url>
+</record>
+<record>
+<id>68</id>
+<name>Capital FM (East Midlands) (Leicestershire) (formerly Leicester Sound)</name>
+<tags>Leicester, Pop</tags>
+<url>http://media-ice.musicradio.com/LeicesterSoundV1.m3u</url>
+</record>
+<record>
+<id>69</id>
+<name>Capital FM (East Midlands) (Nottinghamshire) (formerly Trent FM)</name>
+<tags>Nottingham &#38; Mansfield, Pop</tags>
+<url>http://media-ice.musicradio.com/TrentFMV1.m3u</url>
+</record>
+<record>
+<id>70</id>
+<name>Capital FM (Manchester) (formerly Galaxy)</name>
+<tags>Greater Manchester, Pop</tags>
+<url>http://media-ice.musicradio.com/GalaxyManchesterV1.m3u</url>
+</record>
+<record>
+<id>71</id>
+<name>Capital FM (North East England) (Teesside) (formerly Galaxy)</name>
+<tags>Middlesbrough, Stockton-on-Tees &#38; Darlington, Pop</tags>
+<url>http://media-ice.musicradio.com/CapitalTeesside.m3u</url>
+</record>
+<record>
+<id>72</id>
+<name>Capital FM (Scotland) (East) (formerly Galaxy)</name>
+<tags>Edinburgh, Dunfermline &#38; Glenrothes, Pop</tags>
+<url>http://media-ice.musicradio.com/CapitalEdinburgh.m3u</url>
+</record>
+<record>
+<id>73</id>
+<name>Capital FM (Scotland) (West) (formerly Galaxy)</name>
+<tags>Glasgow, East Kilbride &#38; Motherwell, Pop</tags>
+<url>http://media-ice.musicradio.com/GalaxyScotlandV1.m3u</url>
+</record>
+<record>
+<id>74</id>
+<name>Capital FM (South Coast) (formerly Galaxy)</name>
+<tags>South Hampshire &#38; Isle of Wight, Pop</tags>
+<url>http://media-ice.musicradio.com/GalaxySouthCoastV1.m3u</url>
+</record>
+<record>
+<id>75</id>
+<name>Capital FM (South Wales) (formerly Red Dragon FM)</name>
+<tags>Cardiff, Newport &#38; Cwmbran, Pop</tags>
+<url>http://media-ice.musicradio.com/RedDragonV1.m3u</url>
+</record>
+<record>
+<id>76</id>
+<name>Capital FM (Yorkshire) (South &#38; West) (formerly Galaxy)</name>
+<tags>Leeds, Huddersfield &#38; Sheffield, Pop</tags>
+<url>http://media-ice.musicradio.com/GalaxyYorkshireV1.m3u</url>
+</record>
+<record>
+<id>77</id>
+<name>106.5 Central Radio</name>
+<tags>Preston, Leyland &#38; Chorley, Pop/A.C.</tags>
+<url>http://stream2.securenetsystems.net/central</url>
+</record>
+<record>
+<id>78</id>
+<name>Chelmsford Radio 107.7</name>
+<tags>Chelmsford, Maldon &#38; Witham, A.C.</tags>
+<url>http://asx.abacast.com/chelmsfordradio-chelmsfordradio-64.asx</url>
+</record>
+<record>
+<id>79</id>
+<name>Chill.</name>
+<tags>DAB - Various Locations, Chillout/Lounge/New Age</tags>
+<url>http://media-ice.musicradio.com/ChillV1.m3u</url>
+</record>
+<record>
+<id>80</id>
+<name>Compass FM</name>
+<tags>Grimsby, Cleethorpes &#38; Immingham, A.C./Oldies</tags>
+<url>http://wm.as34763.net/CompassFM</url>
+</record>
+<record>
+<id>81</id>
+<name>106.8 Connect FM (formerly Lite FM)</name>
+<tags>Peterborough, Pop/A.C.</tags>
+<url>http://asx.abacast.com/southend-connectradio-64.asx</url>
+</record>
+<record>
+<id>82</id>
+<name>Connect FM (Northamptonshire)</name>
+<tags>Kettering, Corby &#38; Wellingborough, Pop/A.C.</tags>
+<url>http://asx.abacast.com/southend-connectfm-64.asx</url>
+</record>
+<record>
+<id>83</id>
+<name>Dearne FM</name>
+<tags>Barnsley &#38; Penistone, Pop/A.C.</tags>
+<url>http://wm.as34763.net/DearneFM</url>
+</record>
+<record>
+<id>84</id>
+<name>Dee 106.3</name>
+<tags>Chester, Pop/A.C.</tags>
+<url>http://earth.passiondigital.com/dee1063</url>
+</record>
+<record>
+<id>85</id>
+<name>Desi Radio</name>
+<tags>DAB - Greater London, Panjabi Programming/Asian</tags>
+<url>http://193.27.42.226/desi</url>
+</record>
+<record>
+<id>86</id>
+<name>Dune 107.9</name>
+<tags>Southport, Ormskirk &#38; Formby, A.C.</tags>
+<url>http://streamer3.securenetsystems.net/DUNE</url>
+</record>
+<record>
+<id>87</id>
+<name>Energy FM</name>
+<tags>Isle of Man, Pop/A.C.</tags>
+<url>http://streaming9.planetwideradio.com/energyfm</url>
+</record>
+<record>
+<id>88</id>
+<name>107.3 Exeter FM</name>
+<tags>Exeter, A.C.</tags>
+<url>http://wms.2350.planetstream.net/202350/ExeterFM</url>
+</record>
+<record>
+<id>89</id>
+<name>FIRE Radio</name>
+<tags>Bournemouth, Poole &#38; Christchurch, Pop/Dance</tags>
+<url>http://wm9.spacialnet.com/fireradio1076</url>
+</record>
+<record>
+<id>90</id>
+<name>Five FM</name>
+<tags>Newry &#38; Mourne, Pop/A.C.</tags>
+<url>http://mercury.radica.com/fivefm</url>
+</record>
+<record>
+<id>91</id>
+<name>Fresh Radio</name>
+<tags>The Yorkshire Dales, A.C./Oldies</tags>
+<url>http://azul.streamguys.com/FreshRadio</url>
+</record>
+<record>
+<id>92</id>
+<name>Gold (UK)</name>
+<tags>Satellite/Cable, Oldies/Classic Rock/Motown</tags>
+<url>http://media-ice.musicradio.com/GoldV1.m3u</url>
+</record>
+<record>
+<id>93</id>
+<name>Heart (Anglesey &#38; Gwynedd)</name>
+<tags>Caernarfon, Holyhead &#38; Harlech, Pop/A.C./Welsh Language Programming</tags>
+<url>http://media-ice.musicradio.com/HeartCymruV1.m3u</url>
+</record>
+<record>
+<id>94</id>
+<name>Heart (Cambridgeshire) (Cambridge &#38; Newmarket)</name>
+<tags>Cambridge, Newmarket &#38; Haverhill, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartCambridgeV1.m3u</url>
+</record>
+<record>
+<id>95</id>
+<name>Heart (Cambridgeshire) (Greater Peterborough)</name>
+<tags>Peterborough, Spalding &#38; Wisbech, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartPeterboroughV1.m3u</url>
+</record>
+<record>
+<id>96</id>
+<name>Heart (Devon) (Exeter &#38; East Devon)</name>
+<tags>Exeter, Honiton &#38; Tiverton, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartEastDevonV1.m3u</url>
+</record>
+<record>
+<id>97</id>
+<name>Heart (Devon) (North Devon)</name>
+<tags>Barnstaple, Bideford &#38; Ilfracombe, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartNorthDevonV1.m3u</url>
+</record>
+<record>
+<id>98</id>
+<name>Heart (Devon) (Plymouth)</name>
+<tags>Plymouth, Plympton &#38; Tavistock, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartPlymouthV1.m3u</url>
+</record>
+<record>
+<id>99</id>
+<name>Heart (Devon) (South Hams)</name>
+<tags>Dartmouth, Kingsbridge &#38; Totnes, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartSouthHamsV1.m3u</url>
+</record>
+<record>
+<id>100</id>
+<name>Heart (Devon) (Torbay)</name>
+<tags>Torquay, Paignton &#38; Newton Abbot, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartTorbayV1.m3u</url>
+</record>
+<record>
+<id>101</id>
+<name>Heart (East Anglia) (Norfolk &#38; North Suffolk)</name>
+<tags>Norwich, Lowestoft &#38; Great Yarmouth, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartNorfolkV1.m3u</url>
+</record>
+<record>
+<id>102</id>
+<name>Heart (East Anglia) (Suffolk)</name>
+<tags>Ipswich, Bury St Edmunds &#38; Sudbury, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartSuffolkV1.m3u</url>
+</record>
+<record>
+<id>103</id>
+<name>Heart (Essex) (Colchester)</name>
+<tags>Colchester, Brightlingsea &#38; West Mersea, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartColchesterV1.m3u</url>
+</record>
+<record>
+<id>104</id>
+<name>Heart (Essex) (Harlow) (formerly Ten-17)</name>
+<tags>Harlow, Bishop's Stortford &#38; Sawbridgeworth, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartHarlowV1.m3u</url>
+</record>
+<record>
+<id>105</id>
+<name>Heart (Essex) (Southend &#38; Chelmsford)</name>
+<tags>Southend, Chelmsford &#38; Basildon, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartEssexV1.m3u</url>
+</record>
+<record>
+<id>106</id>
+<name>Heart (Gloucestershire)</name>
+<tags>Gloucester, Cheltenham &#38; Tewkesbury, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartGloucestershireV1.m3u</url>
+</record>
+<record>
+<id>107</id>
+<name>Heart (Hertfordshire) (formerly Mercury 96 6)</name>
+<tags>Watford, Hemel Hempstead &#38; St Albans, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartWatfordV1.m3u</url>
+</record>
+<record>
+<id>108</id>
+<name>Heart (Home Counties) (Bedfordshire)</name>
+<tags>Bedford, Biggleswade &#38; St Neots, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartBedfordshireV1.m3u</url>
+</record>
+<record>
+<id>109</id>
+<name>Heart (Home Counties) (Beds, Bucks &#38; Herts)</name>
+<tags>Luton, Dunstable &#38; Leighton Buzzard, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartBedsBucksHertsV1.m3u</url>
+</record>
+<record>
+<id>110</id>
+<name>Heart (Home Counties) (Milton Keynes)</name>
+<tags>Milton Keynes, Newport Pagnell &#38; Bletchley, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartMiltonKeynesV1.m3u</url>
+</record>
+<record>
+<id>111</id>
+<name>Heart (Home Counties) (Northamptonshire)</name>
+<tags>Northampton, Kettering &#38; Wellingborough, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartNorthamptonshireV1.m3u</url>
+</record>
+<record>
+<id>112</id>
+<name>Heart (Kent)</name>
+<tags>Maidstone, Medway &#38; East Kent, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartKentV1.m3u</url>
+</record>
+<record>
+<id>113</id>
+<name>Heart (London)</name>
+<tags>Greater London, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartLondonV1.m3u</url>
+</record>
+<record>
+<id>114</id>
+<name>Heart (North West) (The Wirral)</name>
+<tags>Birkenhead, Wallasey &#38; Heswall, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartWirralV1.m3u</url>
+</record>
+<record>
+<id>115</id>
+<name>Heart (North West) (Wrexham &#38; Cheshire)</name>
+<tags>Wrexham, Chester &#38; Ellesmere Port, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartWrexhamV1.m3u</url>
+</record>
+<record>
+<id>116</id>
+<name>Heart (South Coast) (Dorset &#38; The New Forest)</name>
+<tags>Bournemouth, Poole &#38; Christchurch, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartDorsetV1.m3u</url>
+</record>
+<record>
+<id>117</id>
+<name>Heart (South Coast) (Hampshire &#38; West Sussex)</name>
+<tags>Southampton, Portsmouth &#38; Winchester, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartHampshireV1.m3u</url>
+</record>
+<record>
+<id>118</id>
+<name>Heart (Sussex &#38; Surrey) (Crawley &#38; Surrey) (formerly Mercury FM)</name>
+<tags>Crawley, Reigate &#38; Horsham, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartCrawleyV1.m3u</url>
+</record>
+<record>
+<id>119</id>
+<name>Heart (Sussex &#38; Surrey) (Sussex)</name>
+<tags>Brighton, Eastbourne &#38; Hastings, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartSussexV1.m3u</url>
+</record>
+<record>
+<id>120</id>
+<name>Heart (Thames Valley) (Berkshire &#38; North Hampshire)</name>
+<tags>Reading, Basingstoke &#38; Andover, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartBerkshireV1.m3u</url>
+</record>
+<record>
+<id>121</id>
+<name>Heart (Thames Valley) (Oxfordshire)</name>
+<tags>Oxford, Banbury &#38; Abingdon, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartOxfordshireV1.m3u</url>
+</record>
+<record>
+<id>122</id>
+<name>Heart (West Country) (Bath)</name>
+<tags>Bath, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartBathV1.m3u</url>
+</record>
+<record>
+<id>123</id>
+<name>Heart (West Country) (Somerset)</name>
+<tags>Taunton, Yeovil &#38; Bridgwater, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartSomersetV1.m3u</url>
+</record>
+<record>
+<id>124</id>
+<name>Heart (West Midlands)</name>
+<tags>West Midlands, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartWestMidsV1.m3u</url>
+</record>
+<record>
+<id>125</id>
+<name>Heart (Wiltshire)</name>
+<tags>Swindon, Chippenham &#38; Devizes, Pop/A.C.</tags>
+<url>http://media-ice.musicradio.com/HeartWiltshireV1.m3u</url>
+</record>
+<record>
+<id>126</id>
+<name>High Peak Radio</name>
+<tags>Buxton, Glossop &#38; Chapel-en-le-Frith, Pop/A.C.</tags>
+<url>http://wms7.wavestreamer.com/HighPeakRadio</url>
+</record>
+<record>
+<id>127</id>
+<name>ILM Radio</name>
+<tags>Sky Digital, Islamic Programming</tags>
+<url>http://wm9.easystream.co.uk/asianparadise</url>
+</record>
+<record>
+<id>128</id>
+<name>Jazz FM (London &#38; Glasgow)</name>
+<tags>DAB - Various Locations, Jazz</tags>
+<url>http://listen.onmyradio.net:8000/listen.pls</url>
+</record>
+<record>
+<id>129</id>
+<name>Juice 107.2</name>
+<tags>Brighton &#38; Hove, Pop/R&#38;B/Indie Rock</tags>
+<url>http://icy-e-01.sharp-stream.com/juice1072.mp3.m3u</url>
+</record>
+<record>
+<id>130</id>
+<name>99.8 KCFM</name>
+<tags>Kingston upon Hull, Pop/A.C.</tags>
+<url>http://stream1.uk.ipercast.net/lincs.co.uk/kcfm</url>
+</record>
+<record>
+<id>131</id>
+<name>Kismat Radio</name>
+<tags>Greater London, Asian Programming/Speech</tags>
+<url>mms://193.218.160.20/kismat</url>
+</record>
+<record>
+<id>132</id>
+<name>kmfm Extra</name>
+<tags>DAB - Kent, Pop</tags>
+<url>http://icy-e-01.sharp-stream.com/kmfmextra.mp3.m3u</url>
+</record>
+<record>
+<id>133</id>
+<name>kmfm for Ashford</name>
+<tags>Ashford, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmashford</url>
+</record>
+<record>
+<id>134</id>
+<name>kmfm for Canterbury, Whitstable and Herne Bay</name>
+<tags>Canterbury, Whitstable &#38; Herne Bay, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmcanterbury</url>
+</record>
+<record>
+<id>135</id>
+<name>kmfm for Maidstone</name>
+<tags>Maidstone, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmmaidstone</url>
+</record>
+<record>
+<id>136</id>
+<name>kmfm for Medway</name>
+<tags>Rochester, Chatham &#38; Gillingham, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmmedway</url>
+</record>
+<record>
+<id>137</id>
+<name>kmfm for Shepway and White Cliffs Country</name>
+<tags>Folkestone &#38; Dover, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmfolkestone</url>
+</record>
+<record>
+<id>138</id>
+<name>kmfm for Thanet</name>
+<tags>Margate, Ramsgate &#38; Broadstairs, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmthanet</url>
+</record>
+<record>
+<id>139</id>
+<name>kmfm for West Kent</name>
+<tags>Tunbridge Wells, Sevenoaks &#38; Tonbridge, Pop/A.C.</tags>
+<url>http://193.27.42.226/kmtonbridge</url>
+</record>
+<record>
+<id>140</id>
+<name>LBC 97.3</name>
+<tags>Greater London, Speech/News</tags>
+<url>http://media-ice.musicradio.com/LBC973V1.m3u</url>
+</record>
+<record>
+<id>141</id>
+<name>LBC News 1152</name>
+<tags>Greater London, News/Travel</tags>
+<url>http://media-ice.musicradio.com/LBC1152.m3u</url>
+</record>
+<record>
+<id>142</id>
+<name>LGR, London Greek Radio</name>
+<tags>North London, Greek Language Programming</tags>
+<url>http://live.istoikona.com/lgr</url>
+</record>
+<record>
+<id>143</id>
+<name>LTR, London Turkish Radio</name>
+<tags>North London, Turkish Language Programming</tags>
+<url>mms://stream.stealthuk.co.uk/ltr</url>
+</record>
+<record>
+<id>144</id>
+<name>Masti Radio</name>
+<tags>DAB - Bradford &#38; Huddersfield, Asian Hits/Bhangra/Bollywood</tags>
+<url>http://mercury.radica.com/sunrise2</url>
+</record>
+<record>
+<id>145</id>
+<name>Midwest Radio (North Dorset)</name>
+<tags>Shaftesbury &#38; Blandford Forum, Pop/A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=MIDWEST_VALE</url>
+</record>
+<record>
+<id>146</id>
+<name>Midwest Radio (Somerset &#38; West Dorset)</name>
+<tags>Yeovil &#38; Chard, Pop/A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=MIDWEST_IVEL</url>
+</record>
+<record>
+<id>147</id>
+<name>Nevis Radio</name>
+<tags>Fort William and Parts of Lochaber, Pop/A.C./Varied Output</tags>
+<url>http://stream01.keyone.co.uk/nevis</url>
+</record>
+<record>
+<id>148</id>
+<name>Oak FM (Charnwood)</name>
+<tags>Loughborough, Pop/A.C.</tags>
+<url>http://wm.as34763.net/OakFM</url>
+</record>
+<record>
+<id>149</id>
+<name>Palm 105.5</name>
+<tags>Torbay, A.C.</tags>
+<url>http://wms.2350.planetstream.net/202350/PalmFM</url>
+</record>
+<record>
+<id>150</id>
+<name>Panjab Radio</name>
+<tags>DAB - National, Punjabi/Asian/Sikh Programming</tags>
+<url>http://streaming.planetwideradio.com/panjab2</url>
+</record>
+<record>
+<id>151</id>
+<name>Perth FM 106.6</name>
+<tags>Perth, A.C.</tags>
+<url>http://rs2.radiostreamer.com/perthfm</url>
+</record>
+<record>
+<id>152</id>
+<name>Premier Christian Radio (UK)</name>
+<tags>DAB - National, Christian Programming/Gospel/Speech</tags>
+<url>http://twofour-premierradio-01.wm.llnwd.net/twofour_PremierNational-01</url>
+</record>
+<record>
+<id>153</id>
+<name>Premier Gospel</name>
+<tags>DAB - Greater London, Gospel/Christian R&#38;B</tags>
+<url>http://twofour-premierradio-01.wm.llnwd.net/twofour_PremierGospel-01</url>
+</record>
+<record>
+<id>154</id>
+<name>Punjabi Radio</name>
+<tags>DAB - Various Locations, Punjabi Programming/Asian</tags>
+<url>mms://193.218.160.20/punjabi</url>
+</record>
+<record>
+<id>155</id>
+<name>Q97</name>
+<tags>Coleraine, Pop/A.C.</tags>
+<url>http://mercury.radica.com/q972fm</url>
+</record>
+<record>
+<id>156</id>
+<name>Q101</name>
+<tags>Omagh &#38; Enniskillen, Pop/A.C.</tags>
+<url>http://mercury.radica.com/q1012fm</url>
+</record>
+<record>
+<id>157</id>
+<name>Q102</name>
+<tags>Londonderry, Pop/A.C.</tags>
+<url>http://mercury.radica.com/q1029fm</url>
+</record>
+<record>
+<id>158</id>
+<name>97.1 Radio Carmarthenshire</name>
+<tags>Carmarthenshire, A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=CARMS</url>
+</record>
+<record>
+<id>159</id>
+<name>Radio Caroline</name>
+<tags>Sky Digital, Classic Rock</tags>
+<url>http://sc5.radiocaroline.net:8010/listen.pls</url>
+</record>
+<record>
+<id>160</id>
+<name>Radio Ceredigion</name>
+<tags>Ceredigion, Varied Output/Welsh Language Programming</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=CEREDIGION</url>
+</record>
+<record>
+<id>161</id>
+<name>Radio Hafren (formerly Radio Maldwyn - The Magic 756)</name>
+<tags>Newtown, Mid-Wales &#38; the Welsh Borders, A.C./Oldies/Varied Output</tags>
+<url>http://87.117.201.159:8080/listen.pls</url>
+</record>
+<record>
+<id>162</id>
+<name>102.5 Radio Pembrokeshire</name>
+<tags>Haverfordwest, Fishguard &#38; Tenby, A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=PEMBS</url>
+</record>
+<record>
+<id>163</id>
+<name>Radio Plymouth</name>
+<tags>Plymouth, A.C./Oldies</tags>
+<url>http://wms.2350.planetstream.net/202350/RadioPlymouth</url>
+</record>
+<record>
+<id>164</id>
+<name>Rainbow Radio</name>
+<tags>DAB - Great London, Ghanaian Programming</tags>
+<url>http://streamer2.securenetsystems.net/RAIN</url>
+</record>
+<record>
+<id>165</id>
+<name>Ridings FM</name>
+<tags>Wakefield, Normanton &#38; Pontefract, Pop/A.C.</tags>
+<url>http://wm.as34763.net/RidingsFM</url>
+</record>
+<record>
+<id>166</id>
+<name>Sanjhi Awaz Radio</name>
+<tags>DAB - West Midlands, Asian Programming/Religious</tags>
+<url>http://azul.streamguys.com/awazradio</url>
+</record>
+<record>
+<id>167</id>
+<name>97.5 Scarlet FM</name>
+<tags>Llanelli &#38; Burry Port, Pop/A.C.</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=SCARLETFM</url>
+</record>
+<record>
+<id>168</id>
+<name>Seven FM</name>
+<tags>Ballymena, Pop/A.C.</tags>
+<url>http://mercury.radica.com/sevenfm</url>
+</record>
+<record>
+<id>169</id>
+<name>Six fm</name>
+<tags>Cookstown &#38; Dungannon, Pop/A.C.</tags>
+<url>http://mercury.radica.com/sixfm</url>
+</record>
+<record>
+<id>170</id>
+<name>Southend Radio 105.1</name>
+<tags>Southend-on-Sea, Rayleigh &#38; Canvey Island, A.C.</tags>
+<url>http://asx.abacast.com/southend-southend-64.asx</url>
+</record>
+<record>
+<id>171</id>
+<name>Spectrum Radio (AM)</name>
+<tags>Greater London, Multilingual Programming</tags>
+<url>http://venus.radica.com/spectrum1</url>
+</record>
+<record>
+<id>172</id>
+<name>Spectrum Radio (DAB)</name>
+<tags>DAB - Greater London, Multilingual Programming</tags>
+<url>http://venus.radica.com/spectrum3</url>
+</record>
+<record>
+<id>173</id>
+<name>Spectrum Radio (Sky Digital)</name>
+<tags>Sky Digital, Multilingual Programming</tags>
+<url>http://venus.radica.com/spectrum2</url>
+</record>
+<record>
+<id>174</id>
+<name>107.7 Splash FM</name>
+<tags>Worthing, Shoreham &#38; Lancing, A.C./Oldies</tags>
+<url>http://www.mybroadbandradio.com/asx/listen.asx?station=SPLASH_LOW</url>
+</record>
+<record>
+<id>175</id>
+<name>Sukh Sagar Radio</name>
+<tags>Sky Digital, Gurbani &#38; Sikh Programming/Asian</tags>
+<url>http://193.27.42.226/sukhsagar</url>
+</record>
+<record>
+<id>176</id>
+<name>Sunrise FM</name>
+<tags>Bradford, Asian Programming</tags>
+<url>http://193.27.42.226/sunrise</url>
+</record>
+<record>
+<id>177</id>
+<name>Sunrise Radio</name>
+<tags>Greater London, Asian Programming</tags>
+<url>mms://193.218.160.20/Sunrise</url>
+</record>
+<record>
+<id>178</id>
+<name>Sunshine 855</name>
+<tags>Ludlow, Pop/A.C./Oldies</tags>
+<url>http://wm9.easystream.co.uk/Sunshine855</url>
+</record>
+<record>
+<id>179</id>
+<name>Sunshine Radio (Herefordshire)</name>
+<tags>Herefordshire, Pop/A.C./Oldies</tags>
+<url>http://wm9.easystream.co.uk/herefordFM</url>
+</record>
+<record>
+<id>180</id>
+<name>The Arrow</name>
+<tags>DAB - Greater London, Adult Rock</tags>
+<url>http://mediasrv-sov.musicradio.com/Arrow</url>
+</record>
+<record>
+<id>181</id>
+<name>106.5 The Severn</name>
+<tags>Shrewsbury, Pop/A.C.</tags>
+<url>http://windowsmedia.tidyhosts.com:84/3702-1</url>
+</record>
+<record>
+<id>182</id>
+<name>107.1 The Severn</name>
+<tags>Oswestry, Pop/A.C.</tags>
+<url>http://windowsmedia.tidyhosts.com:84/3702-2</url>
+</record>
+<record>
+<id>183</id>
+<name>107.4 The Severn (formerly 107.4 Telford FM)</name>
+<tags>Telford, Pop/A.C.</tags>
+<url>http://windowsmedia.tidyhosts.com:84/3702-4</url>
+</record>
+<record>
+<id>184</id>
+<name>107.2 The Wyre</name>
+<tags>Kidderminster, Bewdley &#38; Stourport, Pop/A.C.</tags>
+<url>http://windowsmedia.tidyhosts.com:84/3702-3</url>
+</record>
+<record>
+<id>185</id>
+<name>Time 106.6</name>
+<tags>Slough, Maidenhead &#38; Windsor, A.C.</tags>
+<url>mms://193.218.160.20/Time1066</url>
+</record>
+<record>
+<id>186</id>
+<name>Time 107.5</name>
+<tags>Romford, Barking &#38; Dagenham, A.C./Soul</tags>
+<url>http://89.238.166.195:9442/listen.pls</url>
+</record>
+<record>
+<id>187</id>
+<name>Traffic Radio (London &#38; South East)</name>
+<tags>DAB - Greater London, Traffic &#38; Travel</tags>
+<url>http://www.trafficradio.org.uk/m3u/TR_LON_MP3_Low.m3u</url>
+</record>
+<record>
+<id>188</id>
+<name>Traffic Radio (Midlands)</name>
+<tags>DAB - Various Locations, Traffic &#38; Travel</tags>
+<url>http://www.trafficradio.org.uk/m3u/TR_MID_MP3_Low.m3u</url>
+</record>
+<record>
+<id>189</id>
+<name>Traffic Radio (North West)</name>
+<tags>DAB - Various Locations, Traffic &#38; Travel</tags>
+<url>http://www.trafficradio.org.uk/m3u/TR_NW_MP3_Low.m3u</url>
+</record>
+<record>
+<id>190</id>
+<name>Traffic Radio (South &#38; South East)</name>
+<tags>DAB - Various Locations, Traffic &#38; Travel</tags>
+<url>http://www.trafficradio.org.uk/m3u/TR_SE_MP3_Low.m3u</url>
+</record>
+<record>
+<id>191</id>
+<name>Traffic Radio (South West)</name>
+<tags>DAB - Various Locations, Traffic &#38; Travel</tags>
+<url>http://www.trafficradio.org.uk/m3u/TR_SW_MP3_Low.m3u</url>
+</record>
+<record>
+<id>192</id>
+<name>Traffic Radio (Yorkshire &#38; The North East)</name>
+<tags>DAB - Various Locations, Traffic &#38; Travel</tags>
+<url>http://www.trafficradio.org.uk/m3u/TR_NE_MP3_Low.m3u</url>
+</record>
+<record>
+<id>193</id>
+<name>Trax FM (Doncaster)</name>
+<tags>Doncaster, Pop/A.C.</tags>
+<url>http://wm.as34763.net/TraxFM</url>
+</record>
+<record>
+<id>194</id>
+<name>TWR UK</name>
+<tags>DAB - North West England, Christian Programming</tags>
+<url>http://www.twr.org.uk/twr/transworld.asx</url>
+</record>
+<record>
+<id>195</id>
+<name>YOUR Radio</name>
+<tags>Dumbarton, Helensburgh &#38; Vale of Leven, Pop/A.C.</tags>
+<url>http://on-demand.phasebroadcast.net/yourradio</url>
+</record>
+<record>
+<id>196</id>
+<name>99.8FM 2BR</name>
+<tags>Burnley, Nelson &#38; Colne, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/2br-low.m3u</url>
+</record>
+<record>
+<id>197</id>
+<name>Amazing Radio</name>
+<tags>DAB - National, Unsigned Artists/Rock</tags>
+<url>http://stream.amazingradio.co.uk:8000/listen.pls</url>
+</record>
+<record>
+<id>198</id>
+<name>Amrit Bani</name>
+<tags>Sky Digital, Gurbani &#38; Sikh Programming/Asian</tags>
+<url>http://icy-e-01.sharp-stream.com/amritbani.mp3.m3u</url>
+</record>
+<record>
+<id>199</id>
+<name>Atlantic FM</name>
+<tags>Cornwall, A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/atlanticfm.mp3.m3u</url>
+</record>
+<record>
+<id>200</id>
+<name>102.1 Bay Radio (formerly Swansea Bay Radio)</name>
+<tags>Swansea, Neath &#38; Port Talbot, A.C./Oldies</tags>
+<url>http://icy-e-01.sharp-stream.com/tcbay.mp3.m3u</url>
+</record>
+<record>
+<id>201</id>
+<name>Beacon (Black Country)</name>
+<tags>Wolverhampton &#38; Black Country, Pop/A.C.</tags>
+<url>http://stream3.radiomonitor.com/Beacon-AAC.m3u</url>
+</record>
+<record>
+<id>202</id>
+<name>Bridge FM</name>
+<tags>Bridgend, Pop</tags>
+<url>http://icy-e-01.sharp-stream.com/tcbridge.mp3.m3u</url>
+</record>
+<record>
+<id>203</id>
+<name>BRMB</name>
+<tags>Birmingham, Pop/A.C.</tags>
+<url>http://stream3.radiomonitor.com/BRMB-AAC.m3u</url>
+</record>
+<record>
+<id>357</id>
+<name>top 100 station - Germanys No.1 Web Hit Station
+</name>
+<tags>Top40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=693472</url>
+</record>
+<record>
+<id>204</id>
+<name>Capital FM (North East England) (Tyne &#38; Wear) (formerly Galaxy)</name>
+<tags>Newcastle Upon Tyne, Gateshead &#38; South Shields, Pop</tags>
+<url>http://media-ice.musicradio.com/GalaxyNorthEastV1.m3u</url>
+</record>
+<record>
+<id>205</id>
+<name>Capital FM (Yorkshire) (East) (formerly Galaxy)</name>
+<tags>Hull, Scunthorpe &#38; Grimsby, Pop</tags>
+<url>http://media-ice.musicradio.com/CapitalYorkshireEast.m3u</url>
+</record>
+<record>
+<id>206</id>
+<name>CFM (East)</name>
+<tags>Carlisle &#38; Penrith, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=cfm.aac.m3u</url>
+</record>
+<record>
+<id>207</id>
+<name>Channel 103</name>
+<tags>Jersey, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindlechannel103.mp3.m3u</url>
+</record>
+<record>
+<id>208</id>
+<name>Citybeat 96.7 &#38; 102.5 FM</name>
+<tags>Belfast, Newtownabbey &#38; Carrickfergus, Pop/A.C./News</tags>
+<url>http://213.229.90.229:8600/listen.pls</url>
+</record>
+<record>
+<id>209</id>
+<name>102.5 Clyde 1</name>
+<tags>Glasgow, Rothesay &#38; Vale of Leven, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=clyde1.aac.m3u</url>
+</record>
+<record>
+<id>210</id>
+<name>1152 Clyde 2</name>
+<tags>Glasgow, A.C./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=clyde2.aac.m3u</url>
+</record>
+<record>
+<id>211</id>
+<name>COLOURFUL</name>
+<tags>DAB - Greater London, Cross-cultural Speech/R&#38;B/Soul</tags>
+<url>http://www.yourmuze.com/desktop/pp-fjordbud/h.pls</url>
+</record>
+<record>
+<id>212</id>
+<name>97 4 Cool FM</name>
+<tags>Belfast, Pop</tags>
+<url>http://tx.whatson.com/icecast.php?i=coolfm.aac.m3u</url>
+</record>
+<record>
+<id>213</id>
+<name>County Sound Radio 1566MW</name>
+<tags>Guildford, A.C./Oldies</tags>
+<url>http://str1.sad.ukrd.com/county-low.m3u</url>
+</record>
+<record>
+<id>214</id>
+<name>Cuillin FM</name>
+<tags>Isle of Skye and Kyle of Lochalsh, Varied Output</tags>
+<url>http://icecast.commedia.org.uk:8000/cuillinfm.mp3.m3u</url>
+</record>
+<record>
+<id>215</id>
+<name>Downtown Radio</name>
+<tags>Northern Ireland, A.C./Varied Output</tags>
+<url>http://tx.whatson.com/icecast.php?i=downtown.aac.m3u</url>
+</record>
+<record>
+<id>216</id>
+<name>Dream 100</name>
+<tags>Colchester, Felixstowe &#38; Clacton-on-Sea, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindledream100.mp3.m3u</url>
+</record>
+<record>
+<id>217</id>
+<name>96.4 Eagle Radio</name>
+<tags>Guildford, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/eagle-low.m3u</url>
+</record>
+<record>
+<id>218</id>
+<name>Family Radio</name>
+<tags>Sky Digital, Christian Programming</tags>
+<url>http://209.10.202.162:8300/Europe.mp3.m3u</url>
+</record>
+<record>
+<id>219</id>
+<name>97.3 Forth One</name>
+<tags>Edinburgh, The Lothians &#38; Fife, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=forth1.aac.m3u</url>
+</record>
+<record>
+<id>220</id>
+<name>1548 Forth 2</name>
+<tags>Edinburgh, The Lothians &#38; Fife, A.C./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=forth2.aac.m3u</url>
+</record>
+<record>
+<id>221</id>
+<name>French Radio London</name>
+<tags>DAB - Greater London, French Language Programming/Speech</tags>
+<url>http://icy-e-01.sharp-stream.com/frenchradiolon.mp3.m3u</url>
+</record>
+<record>
+<id>222</id>
+<name>Gem 106 (formerly Heart)</name>
+<tags>East Midlands, Pop/A.C.</tags>
+<url>http://stream3.radiomonitor.com/Gem-AAC.m3u</url>
+</record>
+<record>
+<id>223</id>
+<name>Glide FM (formerly FM107.9)</name>
+<tags>Oxford, Pop/A.C.</tags>
+<url>http://stream.glidefm.co.uk:8000/stream.m3u</url>
+</record>
+<record>
+<id>224</id>
+<name>Hallam FM</name>
+<tags>South Yorkshire, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=hallam.aac.m3u</url>
+</record>
+<record>
+<id>225</id>
+<name>Heartland FM</name>
+<tags>Pitlochry &#38; Aberfeldy, Varied Output</tags>
+<url>http://rs9.radiostreamer.com:8185/listen.pls</url>
+</record>
+<record>
+<id>226</id>
+<name>heat radio</name>
+<tags>DAB - Various Locations, Showbiz/Celebrity Gossip/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=heat.aac.m3u</url>
+</record>
+<record>
+<id>227</id>
+<name>IBC Asia</name>
+<tags>DAB - Greater London, Asian Programming</tags>
+<url>http://ibcasia.primcast.com:7250/listen.pls</url>
+</record>
+<record>
+<id>228</id>
+<name>IBC Tamil</name>
+<tags>DAB - Greater London, Tamil Programming</tags>
+<url>http://ibctamilradio.primcast.com:6176/listen.pls</url>
+</record>
+<record>
+<id>229</id>
+<name>104.9 Imagine FM</name>
+<tags>South Manchester &#38; North Cheshire, A.C.</tags>
+<url>http://radiomonitor.com/webradio/playlists/Imagine.m3u</url>
+</record>
+<record>
+<id>230</id>
+<name>Insight Radio</name>
+<tags>Satellite, Varied Output for the blind and partially sighted</tags>
+<url>http://icy-e-01.sharp-stream.com/insightradio.mp3.m3u</url>
+</record>
+<record>
+<id>231</id>
+<name>104.7 Island FM</name>
+<tags>Guernsey, Alderney &#38; Sark, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindleisland.mp3.m3u</url>
+</record>
+<record>
+<id>232</id>
+<name>Isle of Wight Radio</name>
+<tags>Isle of Wight, Pop/A.C./Speech</tags>
+<url>http://icy-e-01.sharp-stream.com/iw.mp3.m3u</url>
+</record>
+<record>
+<id>233</id>
+<name>Isles FM</name>
+<tags>Isle of Lewis, Varied Output</tags>
+<url>http://www.hebrides.tv:8000/islesfm.m3u</url>
+</record>
+<record>
+<id>234</id>
+<name>106 JACK fm (Bristol)</name>
+<tags>Bristol, A.C./Classic Rock/Album Tracks</tags>
+<url>http://icy-e-01.sharp-stream.com/jackfm.mp3.m3u</url>
+</record>
+<record>
+<id>235</id>
+<name>106 JACK fm (Hertfordshire) (formerly hertbeat FM)</name>
+<tags>North and Central Hertfordshire, A.C./Classic Rock/Album Tracks</tags>
+<url>http://ic01.mediaondemand.net/106JackFM.m3u</url>
+</record>
+<record>
+<id>236</id>
+<name>107.6 Juice FM</name>
+<tags>Liverpool, Pop/Dance</tags>
+<url>http://stream1.radiomonitor.com/Juice-Liverpool.m3u</url>
+</record>
+<record>
+<id>237</id>
+<name>107.6 Kestrel FM</name>
+<tags>Basingstoke &#38; North Hampshire, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindlekestrel.mp3.m3u</url>
+</record>
+<record>
+<id>238</id>
+<name>Kestrel FM (formerly Delta Radio)</name>
+<tags>South West Surrey, East Hampshire &#38; North West Sussex, A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindlekestrelsouth.mp3.m3u</url>
+</record>
+<record>
+<id>239</id>
+<name>Kingdom FM</name>
+<tags>Fife, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/kingdomfm64.mp3.m3u</url>
+</record>
+<record>
+<id>240</id>
+<name>KISS 100</name>
+<tags>Greater London, Dance/R&#38;B/Hip Hop</tags>
+<url>http://tx.whatson.com/icecast.php?i=kiss100.aac.m3u</url>
+</record>
+<record>
+<id>241</id>
+<name>KISS 101</name>
+<tags>South Wales and the West of England, Dance/R&#38;B/Hip Hop</tags>
+<url>http://tx.whatson.com/icecast.php?i=kiss101.aac.m3u</url>
+</record>
+<record>
+<id>242</id>
+<name>KISS 105-108</name>
+<tags>East of England, Dance/R&#38;B/Hip Hop</tags>
+<url>http://tx.whatson.com/icecast.php?i=kiss105.aac.m3u</url>
+</record>
+<record>
+<id>243</id>
+<name>KISS (UK)</name>
+<tags>DAB - Various Locations, Dance/R&#38;B/Hip Hop</tags>
+<url>http://tx.whatson.com/icecast.php?i=kissnational.aac.m3u</url>
+</record>
+<record>
+<id>244</id>
+<name>KL.FM 96.7</name>
+<tags>King's Lynn, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/klfm-low.m3u</url>
+</record>
+<record>
+<id>245</id>
+<name>Lakeland Radio</name>
+<tags>Kendal, Bowness &#38; Windermere, Pop/A.C.</tags>
+<url>http://shoutcast2.tidyhosts.com:9012/listen.pls</url>
+</record>
+<record>
+<id>246</id>
+<name>Magic 828</name>
+<tags>Leeds, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic828.aac.m3u</url>
+</record>
+<record>
+<id>247</id>
+<name>Magic 999</name>
+<tags>Preston &#38; Blackpool, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic999.aac.m3u</url>
+</record>
+<record>
+<id>248</id>
+<name>Magic 1152 (Manchester)</name>
+<tags>Greater Manchester, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic1152m.aac.m3u</url>
+</record>
+<record>
+<id>249</id>
+<name>Magic 1152 (Tyne &#38; Wear)</name>
+<tags>Tyne &#38; Wear, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic1152n.aac.m3u</url>
+</record>
+<record>
+<id>250</id>
+<name>Magic 1161</name>
+<tags>Humberside, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic1161.aac.m3u</url>
+</record>
+<record>
+<id>251</id>
+<name>Magic 1170</name>
+<tags>Teesside, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic1170.aac.m3u</url>
+</record>
+<record>
+<id>252</id>
+<name>Magic 1548</name>
+<tags>Liverpool, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magic1548.aac.m3u</url>
+</record>
+<record>
+<id>253</id>
+<name>Magic AM (South Yorkshire)</name>
+<tags>South Yorkshire &#38; North Midlands, A.C./M.O.R./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=magicam.aac.m3u</url>
+</record>
+<record>
+<id>254</id>
+<name>Mansfield 103.2</name>
+<tags>Mansfield, Ashfield &#38; Bolsover, Pop/A.C.</tags>
+<url>http://www.radiofeeds.co.uk/Mansfield24.m3u</url>
+</record>
+<record>
+<id>255</id>
+<name>Mercia</name>
+<tags>Coventry &#38; Warwickshire, Pop/A.C.</tags>
+<url>http://stream3.radiomonitor.com/Mercia-AAC.m3u</url>
+</record>
+<record>
+<id>256</id>
+<name>Metro Radio</name>
+<tags>Tyne &#38; Wear, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=metro.aac.m3u</url>
+</record>
+<record>
+<id>257</id>
+<name>104.7 Minster FM</name>
+<tags>York, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/minster-low.m3u</url>
+</record>
+<record>
+<id>258</id>
+<name>Mix 96</name>
+<tags>Aylesbury Vale, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/mix96-low.m3u</url>
+</record>
+<record>
+<id>259</id>
+<name>My Baby Radio</name>
+<tags>DAB - Stoke &#38; Stafford, A.C./Speech/Childcare</tags>
+<url>http://87.117.250.5:9244/mybabyradio.mp3.m3u</url>
+</record>
+<record>
+<id>260</id>
+<name>Nation Radio</name>
+<tags>South Wales, Alternative/Indie/Modern Rock</tags>
+<url>http://earth.passiondigital.com:9010/listen.pls</url>
+</record>
+<record>
+<id>261</id>
+<name>NECR</name>
+<tags>Inverurie, Ballater &#38; Turriff, A.C./Country</tags>
+<url>http://stream1.radiomonitor.com/NECR.m3u</url>
+</record>
+<record>
+<id>262</id>
+<name>Newbury Sound</name>
+<tags>Newbury, Thatcham &#38; Hungerford, Pop/A.C.</tags>
+<url>http://stream.newburysound.co.uk/newbury.m3u</url>
+</record>
+<record>
+<id>263</id>
+<name>NME Radio</name>
+<tags>DAB - South East Wales, Indie/Modern Rock</tags>
+<url>http://icy-e-01.sharp-stream.com/nmeradio2.aac.m3u</url>
+</record>
+<record>
+<id>264</id>
+<name>Northsound 1</name>
+<tags>Aberdeen &#38; Peterhead, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=northsound1.aac.m3u</url>
+</record>
+<record>
+<id>265</id>
+<name>Northsound Two</name>
+<tags>Aberdeen &#38; Peterhead, A.C./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=northsound2.aac.m3u</url>
+</record>
+<record>
+<id>266</id>
+<name>Norwich 99.9 (formerly 99.9 Radio Norwich)</name>
+<tags>Norwich, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindlenorwich.mp3.m3u</url>
+</record>
+<record>
+<id>267</id>
+<name>Original 106</name>
+<tags>Aberdeen &#38; Peterhead, Adult Alternative</tags>
+<url>http://icy-e-01.sharp-stream.com/original106.mp3.m3u</url>
+</record>
+<record>
+<id>268</id>
+<name>PASSION for the PLANET</name>
+<tags>DAB - Various Locations, A.C./World Music/Health &#38; Environmental News</tags>
+<url>http://media1.ultrastream.co.uk:5000/passionfortheplanet.m3u</url>
+</record>
+<record>
+<id>269</id>
+<name>Peak FM</name>
+<tags>Chesterfield &#38; Matlock, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Peak.m3u</url>
+</record>
+<record>
+<id>270</id>
+<name>Pirate FM</name>
+<tags>Cornwall &#38; Isles of Scilly, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/pirate-low.m3u</url>
+</record>
+<record>
+<id>271</id>
+<name>PRL, Polskie Radio Londyn - Polish Radio London</name>
+<tags>DAB - Greater London, Polish Language Programming/Pop/Dance</tags>
+<url>http://radio.prl24.net:8096/listen.pls</url>
+</record>
+<record>
+<id>272</id>
+<name>Pulse 2</name>
+<tags>Bradford, Huddersfield &#38; Halifax, A.C./Oldies</tags>
+<url>http://stream1.radiomonitor.com/Pulse-Gold.m3u</url>
+</record>
+<record>
+<id>273</id>
+<name>Q Radio</name>
+<tags>Freeview, Indie Rock/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=q.aac.m3u</url>
+</record>
+<record>
+<id>274</id>
+<name>96.3 Radio Aire</name>
+<tags>Leeds, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=aire.aac.m3u</url>
+</record>
+<record>
+<id>275</id>
+<name>Radio Borders</name>
+<tags>The Scottish Borders &#38; North Northumberland, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=borders.aac.m3u</url>
+</record>
+<record>
+<id>276</id>
+<name>Radio City 96.7</name>
+<tags>Liverpool, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=city.aac.m3u</url>
+</record>
+<record>
+<id>277</id>
+<name>107.8 Radio Jackie</name>
+<tags>South West London &#38; North Surrey, A.C.</tags>
+<url>http://www.radiojackie.com:11209/listen.pls</url>
+</record>
+<record>
+<id>278</id>
+<name>Radio Khushkhabri</name>
+<tags>Sky Digital, Christian Programming for the Asian Audience</tags>
+<url>http://icy-e-01.sharp-stream.com/khushkhabri.mp3.m3u</url>
+</record>
+<record>
+<id>279</id>
+<name>96.5 Radio Wave</name>
+<tags>Blackpool &#38; the Fylde Coast, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Wave-Blackpool.m3u</url>
+</record>
+<record>
+<id>280</id>
+<name>Radio XL</name>
+<tags>Birmingham, Asian Programming</tags>
+<url>http://72.167.202.7:8000/listen.pls</url>
+</record>
+<record>
+<id>281</id>
+<name>Rainbow Christian Radio</name>
+<tags>Sky Digital, Christian Programming for the African Audience</tags>
+<url>http://uk2-pn.mixstream.net:8146/listen.pls</url>
+</record>
+<record>
+<id>282</id>
+<name>Reading 107</name>
+<tags>Reading, A.C.</tags>
+<url>http://213.175.209.70:8555/listen.pls</url>
+</record>
+<record>
+<id>283</id>
+<name>Real Radio (North East England) (South)</name>
+<tags>Teesside, Pop/A.C./Sport</tags>
+<url>http://shoutcast.gmgradio.com:10107/listen.pls</url>
+</record>
+<record>
+<id>284</id>
+<name>Real Radio (North West England)</name>
+<tags>North West England, Pop/A.C./Sport</tags>
+<url>http://shoutcast.gmgradio.com:10101/listen.pls</url>
+</record>
+<record>
+<id>285</id>
+<name>Real Radio (Scotland)</name>
+<tags>Central Scotland, Pop/A.C./Sport</tags>
+<url>http://shoutcast.gmgradio.com:10105/listen.pls</url>
+</record>
+<record>
+<id>286</id>
+<name>Real Radio (Wales) (South)</name>
+<tags>South &#38; South West Wales, Pop/A.C./Sport</tags>
+<url>http://shoutcast.gmgradio.com:10005/listen.pls</url>
+</record>
+<record>
+<id>287</id>
+<name>Real Radio (Yorkshire)</name>
+<tags>South &#38; West Yorkshire, Pop/A.C.</tags>
+<url>http://shoutcast.gmgradio.com:10002/listen.pls</url>
+</record>
+<record>
+<id>288</id>
+<name>97.4 Rock FM</name>
+<tags>Preston &#38; Blackpool, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=rock.aac.m3u</url>
+</record>
+<record>
+<id>289</id>
+<name>96.3 Rock Radio</name>
+<tags>Glasgow &#38; Renfrewshire, Classic Rock</tags>
+<url>http://shoutcast.gmgradio.com:10001/listen.pls</url>
+</record>
+<record>
+<id>290</id>
+<name>106.1 Rock Radio</name>
+<tags>Manchester, Classic Rock</tags>
+<url>http://shoutcast.gmgradio.com:10103/listen.pls</url>
+</record>
+<record>
+<id>291</id>
+<name>Rock Radio (North East)</name>
+<tags>DAB - North East England, Classic Rock</tags>
+<url>http://shoutcast.gmgradio.com:10104/listen.pls</url>
+</record>
+<record>
+<id>292</id>
+<name>107.1 Rugby FM</name>
+<tags>Rugby, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/1071rugbyfm.mp3.m3u</url>
+</record>
+<record>
+<id>293</id>
+<name>Sabras Radio</name>
+<tags>Leicester, Asian Programming</tags>
+<url>http://www.sabrasradio.com/res/wm_lo.m3u</url>
+</record>
+<record>
+<id>294</id>
+<name>Sanskar Radio</name>
+<tags>DAB - Leicester, Hindu Programming/Asian</tags>
+<url>http://www.sanskarradio.com/sanskar.m3u</url>
+</record>
+<record>
+<id>295</id>
+<name>Signal 1</name>
+<tags>Staffordshire &#38; Cheshire, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Signal1.m3u</url>
+</record>
+<record>
+<id>296</id>
+<name>1170 Signal 2</name>
+<tags>Staffordshire &#38; Cheshire, A.C./Oldies</tags>
+<url>http://stream1.radiomonitor.com/Signal2.m3u</url>
+</record>
+<record>
+<id>297</id>
+<name>Smash! Hits Radio</name>
+<tags>Freeview, Pop</tags>
+<url>http://tx.whatson.com/icecast.php?i=smashhits.aac.m3u</url>
+</record>
+<record>
+<id>298</id>
+<name>97.5 &#38; 107.7 smooth radio</name>
+<tags>North East England, A.C./Oldies/Speech</tags>
+<url>http://shoutcast.gmgradio.com:10007/listen.pls</url>
+</record>
+<record>
+<id>299</id>
+<name>100.4 smooth radio</name>
+<tags>North West England, A.C./Oldies/Speech</tags>
+<url>http://shoutcast.gmgradio.com:10102/listen.pls</url>
+</record>
+<record>
+<id>300</id>
+<name>102.2 smooth radio</name>
+<tags>Greater London, A.C./Oldies/Speech</tags>
+<url>http://shoutcast.gmgradio.com:10006/listen.pls</url>
+</record>
+<record>
+<id>301</id>
+<name>105.2 smooth radio</name>
+<tags>Glasgow, A.C./Oldies/Speech</tags>
+<url>http://shoutcast.gmgradio.com:10106/listen.pls</url>
+</record>
+<record>
+<id>302</id>
+<name>105.7 smooth radio</name>
+<tags>West Midlands, A.C./Oldies/Speech</tags>
+<url>http://shoutcast.gmgradio.com:10004/listen.pls</url>
+</record>
+<record>
+<id>303</id>
+<name>106.6 smooth radio</name>
+<tags>East Midlands, A.C./Oldies/Speech</tags>
+<url>http://shoutcast.gmgradio.com:10003/listen.pls</url>
+</record>
+<record>
+<id>304</id>
+<name>Spirit FM</name>
+<tags>Chichester, Bognor Regis &#38; Littlehampton, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/spirit-low.m3u</url>
+</record>
+<record>
+<id>305</id>
+<name>Star Radio (Bristol)</name>
+<tags>Bristol, A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/starbristol.mp3.m3u</url>
+</record>
+<record>
+<id>306</id>
+<name>Star Radio (Darlington)</name>
+<tags>Darlington, Newton Aycliffe &#38; Sedgefield, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/star-ne-low.m3u</url>
+</record>
+<record>
+<id>307</id>
+<name>Star Radio (Northallerton)</name>
+<tags>Northallerton, Thirsk &#38; Bedale, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/starne-na-low.m3u</url>
+</record>
+<record>
+<id>308</id>
+<name>103.4 Sun FM</name>
+<tags>Sunderland, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/sun-fm-low.m3u</url>
+</record>
+<record>
+<id>309</id>
+<name>1170 Swansea Sound</name>
+<tags>Swansea, A.C./Welsh Programming</tags>
+<url>http://stream1.radiomonitor.com/SwanseaSound.m3u</url>
+</record>
+<record>
+<id>310</id>
+<name>Tay AM</name>
+<tags>Dundee &#38; Perth, A.C./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=tayam.aac.m3u</url>
+</record>
+<record>
+<id>311</id>
+<name>Tay FM</name>
+<tags>Dundee &#38; Perth, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=tayfm.aac.m3u</url>
+</record>
+<record>
+<id>312</id>
+<name>TFMradio</name>
+<tags>Teesside, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=tfm.aac.m3u</url>
+</record>
+<record>
+<id>313</id>
+<name>The Bay (Morecambe Bay)</name>
+<tags>Morecambe Bay, Pop/A.C.</tags>
+<url>http://shoutcast2.tidyhosts.com:9006/listen.pls</url>
+</record>
+<record>
+<id>314</id>
+<name>The Beach</name>
+<tags>Great Yarmouth, Lowestoft &#38; Southwold, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindlethebeach.mp3.m3u</url>
+</record>
+<record>
+<id>315</id>
+<name>107 The Bee</name>
+<tags>Blackburn &#38; Darwen, Pop/A.C./Oldies</tags>
+<url>http://str1.sad.ukrd.com/thebee-low.m3u</url>
+</record>
+<record>
+<id>316</id>
+<name>The Breeze (DAB)</name>
+<tags>South Hampshire &#38; Isle of Wight, M.O.R./Easy Listening</tags>
+<url>http://stream1.radiomonitor.com/Breeze-64.m3u</url>
+</record>
+<record>
+<id>317</id>
+<name>The Breeze (Portsmouth) (formerly Quay Radio)</name>
+<tags>Portsmouth, Gosport &#38; Hayling, M.O.R./Easy Listening</tags>
+<url>http://stream3.radiomonitor.com/Breeze-Portsmouth-128.m3u</url>
+</record>
+<record>
+<id>318</id>
+<name>The Breeze (Southampton) (formerly Play Radio)</name>
+<tags>Southampton &#38; The New Forest, M.O.R./Easy Listening</tags>
+<url>http://stream3.radiomonitor.com/Breeze-Southampton-128.m3u</url>
+</record>
+<record>
+<id>319</id>
+<name>The Breeze (Winchester) (formerly Play Radio)</name>
+<tags>Winchester &#38; Eastleigh, M.O.R./Easy Listening</tags>
+<url>http://stream3.radiomonitor.com/Breeze-Winchester-128.m3u</url>
+</record>
+<record>
+<id>320</id>
+<name>The Coast</name>
+<tags>Solent, A.C./Adult Alternative</tags>
+<url>http://stream1.radiomonitor.com:80/TheCoast-32.m3u</url>
+</record>
+<record>
+<id>321</id>
+<name>The Hits</name>
+<tags>DAB - Greater London, Pop</tags>
+<url>http://tx.whatson.com/icecast.php?i=hits.aac.m3u</url>
+</record>
+<record>
+<id>322</id>
+<name>The Pulse</name>
+<tags>Bradford, Huddersfield &#38; Halifax, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Pulse.m3u</url>
+</record>
+<record>
+<id>323</id>
+<name>96.2 The Revolution</name>
+<tags>Oldham, Pop/A.C.</tags>
+<url>http://95.131.65.13:8004/listen.pls</url>
+</record>
+<record>
+<id>324</id>
+<name>96.4FM The Wave</name>
+<tags>Swansea, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Wave-Swansea.m3u</url>
+</record>
+<record>
+<id>325</id>
+<name>107.7 The Wolf</name>
+<tags>Wolverhampton, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Wolf.m3u</url>
+</record>
+<record>
+<id>326</id>
+<name>Total Star (Gloucestershire) (formerly Star 107.5)</name>
+<tags>Cheltenham &#38; Tewkesbury, Pop/A.C.</tags>
+<url>http://87.106.211.155:8000/listen.pls</url>
+</record>
+<record>
+<id>327</id>
+<name>Total Star (Somerset) (formerly Quay West FM)</name>
+<tags>Bridgwater, Minehead &#38; Porlock, Pop/A.C.</tags>
+<url>http://87.106.211.155:8004/listen.pls</url>
+</record>
+<record>
+<id>328</id>
+<name>Total Star (Wiltshire &#38; Bath)</name>
+<tags>Swindon, Bath &#38; Trowbridge, Pop/A.C.</tags>
+<url>http://87.106.211.155:8006/listen.pls</url>
+</record>
+<record>
+<id>329</id>
+<name>96.2 Touch FM</name>
+<tags>Coventry, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/962touchfm.mp3.m3u</url>
+</record>
+<record>
+<id>330</id>
+<name>101-102 Touch FM</name>
+<tags>Burton-upon-Trent, Tamworth &#38; Lichfield, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/1016touchfm.mp3.m3u</url>
+</record>
+<record>
+<id>331</id>
+<name>102 Touch FM</name>
+<tags>Stratford upon Avon, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/102touchfm.mp3.m3u</url>
+</record>
+<record>
+<id>332</id>
+<name>107.3 Touch FM</name>
+<tags>Warwick, Leamington Spa &#38; Kenilworth, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/1073touchfm.mp3.m3u</url>
+</record>
+<record>
+<id>333</id>
+<name>107.4 Tower FM</name>
+<tags>Bolton &#38; Bury, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Tower.m3u</url>
+</record>
+<record>
+<id>334</id>
+<name>Town 102</name>
+<tags>Town 102, Pop/A.C.</tags>
+<url>http://icy-e-01.sharp-stream.com/tindletown102.mp3.m3u</url>
+</record>
+<record>
+<id>335</id>
+<name>U105</name>
+<tags>Belfast, A.C./Oldies/Country/Speech</tags>
+<url>http://stream1.radiomonitor.com/U105.m3u</url>
+</record>
+<record>
+<id>336</id>
+<name>UCA Radio</name>
+<tags>DAB - Ayr, Student Service</tags>
+<url>http://icecast.commedia.org.uk:8000/ucaradio.mp3.m3u</url>
+</record>
+<record>
+<id>337</id>
+<name>UCB Bible</name>
+<tags>Sky Digital, Spoken Bible/Christian</tags>
+<url>http://icy-e-01.sharp-stream.com/ucbbible.aac.m3u</url>
+</record>
+<record>
+<id>338</id>
+<name>UCB Gospel</name>
+<tags>DAB - Various Locations, Gospel/Christian</tags>
+<url>http://icy-e-01.sharp-stream.com/ucbgospel.aac.m3u</url>
+</record>
+<record>
+<id>339</id>
+<name>UCB Inspirational</name>
+<tags>DAB - Various Locations, Christian Hymns/Worship Music</tags>
+<url>http://icy-e-01.sharp-stream.com/ucbinspirational.aac.m3u</url>
+</record>
+<record>
+<id>340</id>
+<name>UCB UK</name>
+<tags>DAB - National, Christian Programming/Contemporary Christian Music/Speech</tags>
+<url>http://icy-e-01.sharp-stream.com/ucbuk.aac.m3u</url>
+</record>
+<record>
+<id>341</id>
+<name>96.9 Viking FM</name>
+<tags>Humberside, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=viking.aac.m3u</url>
+</record>
+<record>
+<id>342</id>
+<name>Voice Radio</name>
+<tags>DAB - South East Wales, Pop/A.C.</tags>
+<url>http://icecast.commedia.org.uk:8000/voicefm.mp3.m3u</url>
+</record>
+<record>
+<id>343</id>
+<name>Wave 102</name>
+<tags>Dundee, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Wave-Dundee.m3u</url>
+</record>
+<record>
+<id>344</id>
+<name>Wave 105</name>
+<tags>Solent, A.C./M.O.R.</tags>
+<url>http://tx.whatson.com/icecast.php?i=wave105.aac.m3u</url>
+</record>
+<record>
+<id>345</id>
+<name>Waves Radio</name>
+<tags>Peterhead &#38; Fraserburgh, Pop/A.C./Oldies</tags>
+<url>http://stream1.radiomonitor.com/WavesRadio.m3u</url>
+</record>
+<record>
+<id>346</id>
+<name>Wessex FM</name>
+<tags>Weymouth &#38; Dorchester, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/wessex-low.m3u</url>
+</record>
+<record>
+<id>347</id>
+<name>96.7 West FM</name>
+<tags>Ayr &#38; Girvan, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=westfm.aac.m3u</url>
+</record>
+<record>
+<id>348</id>
+<name>West Sound 1035 AM</name>
+<tags>Ayr &#38; Girvan, A.C./Oldies</tags>
+<url>http://tx.whatson.com/icecast.php?i=westsound.aac.m3u</url>
+</record>
+<record>
+<id>349</id>
+<name>West Sound (FM)</name>
+<tags>Dumfries &#38; Galloway, Pop/A.C.</tags>
+<url>http://tx.whatson.com/icecast.php?i=westsoundfm.aac.m3u</url>
+</record>
+<record>
+<id>350</id>
+<name>107.2 Wire FM</name>
+<tags>Warrington, Widnes &#38; Runcorn, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Wire.m3u</url>
+</record>
+<record>
+<id>351</id>
+<name>102.4 Wish FM</name>
+<tags>Wigan &#38; St Helens, Pop/A.C.</tags>
+<url>http://stream1.radiomonitor.com/Wish.m3u</url>
+</record>
+<record>
+<id>352</id>
+<name>Wyvern</name>
+<tags>Hereford, Worcester &#38; Kidderminster, Pop/A.C.</tags>
+<url>http://stream3.radiomonitor.com/Wyvern-AAC.m3u</url>
+</record>
+<record>
+<id>353</id>
+<name>Yorkshire Coast Radio (Bridlington)</name>
+<tags>Bridlington, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/yorkshirecoastb-low.m3u</url>
+</record>
+<record>
+<id>354</id>
+<name>Yorkshire Coast Radio (Scarborough)</name>
+<tags>Scarborough, Whitby &#38; Filey, Pop/A.C.</tags>
+<url>http://str1.sad.ukrd.com/yorkshirecoast-low.m3u</url>
+</record>
+<record>
+<id>355</id>
+<name>Yorkshire Radio (Sky Digital)</name>
+<tags>Sky Digital, A.C./Sport</tags>
+<url>http://streaming.planetwideradio.com:8080/listen.pls</url>
+</record>
+<record>
+<id>356</id>
+<name>Alex Jones - Infowars.com
+</name>
+<tags>Talk, News, Political</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1026951</url>
+</record>
+<record>
+<id>358</id>
+<name>TechnoBase.FM - 24h Techno, Dance, Trance, House and More - 128k MP3
+</name>
+<tags>Techno, Electronic, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377200</url>
+</record>
+<record>
+<id>359</id>
+<name>.977 The Hitz Channel - 977MUSIC.COM - The #1 Hit Music Internet Radio Channel
+</name>
+<tags>Pop, Rock, Top, 40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280356</url>
+</record>
+<record>
+<id>360</id>
+<name>#MUSIK.CLUB - WWW.RAUTEMUSIK.FM - 24H MIXED HANDS UP TRANCE DANCE TECHNO HARDSTYLE HOUSE AND MORE!
+</name>
+<tags>Electronic, Techno, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275319</url>
+</record>
+<record>
+<id>361</id>
+<name>Tutku Fm: Tutkufm Mix
+</name>
+<tags>turkce, turkish, hit, tutkufm, pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=704448</url>
+</record>
+<record>
+<id>362</id>
+<name>-=[:: HOT 108 JAMZ ::]=- #1 FOR HIP HOP - 128K HD</name>
+<tags>R&#38;B, R&#38;B, URBAN, HIP, HOP, RAP, POP</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1281016</url>
+</record>
+<record>
+<id>363</id>
+<name>181.FM - The Eagle (Your Home For REAL Classic Rock!)
+</name>
+<tags>Classic, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=301250</url>
+</record>
+<record>
+<id>364</id>
+<name>Schlagerhoelle - wir heizen Euch ein mit Schlager und Discofox
+</name>
+<tags>Schlager, Discofox</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=702040</url>
+</record>
+<record>
+<id>365</id>
+<name>#MUSIK.MAIN - WWW.RAUTEMUSIK.FM - 24H TOP 40 POP HITS 80S 90S DANCE HOUSE ROCK RNB AND MORE!
+</name>
+<tags>Pop, Rock, Top, 40, R&#38;B, 80s</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275878</url>
+</record>
+<record>
+<id>366</id>
+<name>Radio Paradise - DJ-mixed modern &#38; classic rock, world, electronica &#38; more - info: radioparadise.com
+</name>
+<tags>eclectic, rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1354805</url>
+</record>
+<record>
+<id>367</id>
+<name>DEFJAY.DE - 100% R&#38;B! (GERMANY)
+</name>
+<tags>R&#38;B, R&#38;B, URBAN, HIP, HOP, RAP, POP</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=626766</url>
+</record>
+<record>
+<id>368</id>
+<name>KissFM Romania - www.kissfm.ro - Cea Mai Buna Muzica Se Aude La Kiss
+</name>
+<tags>Top, 40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=3633</url>
+</record>
+<record>
+<id>369</id>
+<name>idobi Radio: New. Music. Unfiltered. idobi.com
+</name>
+<tags>Alternative, Pop, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=847066</url>
+</record>
+<record>
+<id>370</id>
+<name>Radio Television Caraibes Port-au-Prince Haiti
+</name>
+<tags>news</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=284446</url>
+</record>
+<record>
+<id>371</id>
+<name>KaLpFm WinStaR ile Hababam Saati
+</name>
+<tags>Turk, Turkey, Turkce, Turkish, Po</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=748679</url>
+</record>
+<record>
+<id>372</id>
+<name>Groove Salad: a nicely chilled plate of ambient beats and grooves. [SomaFM]
+</name>
+<tags>Ambient, Chill</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1325107</url>
+</record>
+<record>
+<id>373</id>
+<name>@disco I streamed by pop-stream.de
+</name>
+<tags>Top40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1283405</url>
+</record>
+<record>
+<id>374</id>
+<name>Absolutely Smooth Jazz - S K Y . F M - the world's smoothest jazz 24 hours a day
+</name>
+<tags>Soft, Smooth, Jazz</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=496891</url>
+</record>
+<record>
+<id>375</id>
+<name>#MUSIK.JAM - WWW.RAUTEMUSIK.FM - 24H HIPHOP RNB RAP SOUL REGGAE DANCEHALL URBAN AND MORE!
+</name>
+<tags>Hip, Hop, R&#38;B, Rap, Urban, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1269742</url>
+</record>
+<record>
+<id>376</id>
+<name>RMF FM
+</name>
+<tags>AC</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1116397</url>
+</record>
+<record>
+<id>377</id>
+<name>1POWER - #1 FOR HITZ &#38; HIP HOP *In HD</name>
+<tags>R&#38;B, R&#38;B, URBAN, HIP, HOP, RAP, POP</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1283516</url>
+</record>
+<record>
+<id>378</id>
+<name>@charts I streamed by pop-stream.de
+</name>
+<tags>Top40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1282229</url>
+</record>
+<record>
+<id>379</id>
+<name>SUPER FM - EN IYI MUZIK
+</name>
+<tags>Turkce, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=9257</url>
+</record>
+<record>
+<id>380</id>
+<name>Radio Klass Romania - Muzica Zi de Zi
+</name>
+<tags>CHR</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=20594</url>
+</record>
+<record>
+<id>381</id>
+<name>RadioManele FM  Romania Etno Populara Dance Dedicatii Ym: FmManele
+</name>
+<tags>TOP, 40, HIP, HOP, POP</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=7659</url>
+</record>
+<record>
+<id>382</id>
+<name>You are listening to 54house.fm - The Heartbeat Of House Music
+</name>
+<tags>House, Electronic</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=527210</url>
+</record>
+<record>
+<id>383</id>
+<name>Vocal Trance - D I G I T A L L Y - I M P O R T E D - a fusion of trance, dance, and chilling vocals 
+</name>
+<tags>Electronic, Trance, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1177953</url>
+</record>
+<record>
+<id>384</id>
+<name>RAdyo_MenziLde*Dj HRN MeLeKLeKeyF-i aLeM
+</name>
+<tags>turkce, pop, slow, arabesk, kurtce</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=686373</url>
+</record>
+<record>
+<id>385</id>
+<name>181.FM - Classic Hits --- Home of The 60's and 70's
+</name>
+<tags>Classic, Hits, 60, s, 70, s</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1271907</url>
+</record>
+<record>
+<id>386</id>
+<name>#MUSIK.GOLDIES - WWW.RAUTEMUSIK.FM - 24H OLDIES CLASSIC ROCK 60S 70S 80S POP AND MORE!
+</name>
+<tags>Decades, Oldies, 80s, 70s, 60s</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1268157</url>
+</record>
+<record>
+<id>387</id>
+<name>ENJOYSTATION.NET France Vichy! Paris, Canada, America, Italia, England, Deutschland, French
+</name>
+<tags>Top40, R&#38;B, pop, rock, dance, elect</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377285</url>
+</record>
+<record>
+<id>388</id>
+<name>#MUSIK.FUNKY - WWW.RAUTEMUSIK.FM - 24H MIXED HOUSE ELECTRO FUNK DANCE MINIMAL AND MORE!
+</name>
+<tags>Electronic, House, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1269046</url>
+</record>
+<record>
+<id>389</id>
+<name>181.FM - The Buzz (Your Alternative Station!)
+</name>
+<tags>Alternative, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1415249</url>
+</record>
+<record>
+<id>390</id>
+<name>DEFJAY.COM - THE PLACE TO BE IN R&#38;B! (USA)
+</name>
+<tags>R&#38;B, R&#38;B, URBAN, HIP, HOP, RAP, POP</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=616366</url>
+</record>
+<record>
+<id>391</id>
+<name>181.FM - Kickin' Country - Today's BEST Country!
+</name>
+<tags>Country, Rock, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1283687</url>
+</record>
+<record>
+<id>392</id>
+<name>Adom 106.3FM Powered by WisetecMediagh
+</name>
+<tags>Ghana</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1043382</url>
+</record>
+<record>
+<id>393</id>
+<name>Radio VHR - Rock + Pop - Oldies
+</name>
+<tags>Schlager, Discofox, Pop, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=340352</url>
+</record>
+<record>
+<id>394</id>
+<name>HouseTime.FM - 24h Electro, House &#38; More - 128k MP3
+</name>
+<tags>Electronic, House</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377360</url>
+</record>
+<record>
+<id>395</id>
+<name>1.FM - 80s Channel
+</name>
+<tags>80s</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1274599</url>
+</record>
+<record>
+<id>396</id>
+<name>Techno4ever Radio - 24 Hours open
+</name>
+<tags>Electronic, Dance, Techno</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=605272</url>
+</record>
+<record>
+<id>397</id>
+<name>Trance Channel - D I G I T A L L Y - I M P O R T E D - we can't define it!
+</name>
+<tags>Electronic, Trance, Techno</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1193516</url>
+</record>
+<record>
+<id>398</id>
+<name>One FM Romania - www.onefm.ro
+</name>
+<tags>Classic, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2303</url>
+</record>
+<record>
+<id>399</id>
+<name>PulsRadio - www.pulsradio.com - Dance Trance Techno House HandsUp
+</name>
+<tags>Techno, Electronic, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1320</url>
+</record>
+<record>
+<id>400</id>
+<name>#MUSIK.EXTREME - WWW.RAUTEMUSIK.FM - 24H ROCK METAL PUNK SKA ALTERNATIVE AND MORE!
+</name>
+<tags>Rock, Metal, Alternative</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275071</url>
+</record>
+<record>
+<id>401</id>
+<name>COOL93 fahrenheit
+</name>
+<tags>Easy, Listening</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=33103</url>
+</record>
+<record>
+<id>402</id>
+<name>181.FM - Chilled
+</name>
+<tags>Chill, Ambient, Downtempo</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275050</url>
+</record>
+<record>
+<id>403</id>
+<name>SMOOTHJAZZ.COM - The Internet's Original Smooth Jazz Radio Station - Live from the Monterey Bay
+</name>
+<tags>Smooth, Jazz</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1339789</url>
+</record>
+<record>
+<id>404</id>
+<name>I LOVE RADIO - Interaktives Webradio, Voting, THE DOME RADIO - ILOVERADIO.de
+</name>
+<tags>Pop, R&#38;B, Urban, Electronic, Ro</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=3495</url>
+</record>
+<record>
+<id>405</id>
+<name>www.ekoolfm.com TURKCE MUZiK TURKiSH HiT MUSiC Omer'le Muhabbet Show SIZLERLE HOSGELDINIZ
+</name>
+<tags>turkce, turkish, hit, pop, slow</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=158084</url>
+</record>
+<record>
+<id>406</id>
+<name>French Kiss FM
+</name>
+<tags>electronic</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=52923</url>
+</record>
+<record>
+<id>407</id>
+<name>NOISEfm.pl - Niezalezne Radio Rock !
+</name>
+<tags>Rock, &#38;, Roll</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=266224</url>
+</record>
+<record>
+<id>408</id>
+<name>#MUSIK.BIGCITYBEATS - BY BIGCITYBEATS.DE &#38; RAUTEMUSIK.FM - 24H MIXED ELECTRONIC AND HOUSE MUSIC!
+</name>
+<tags>Electronic, House, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1269784</url>
+</record>
+<record>
+<id>409</id>
+<name>181.FM - Energy 98 - Dance Hits
+</name>
+<tags>Dance, Hits, Top, 40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1274106</url>
+</record>
+<record>
+<id>410</id>
+<name>Radio Paloma - 100% Deutscher Schlager!
+</name>
+<tags>Schlager, Volksmusik, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=710507</url>
+</record>
+<record>
+<id>411</id>
+<name>TechnoBase.FM - 24h Techno, Dance, Trance, House and More - 80k aacPlus
+</name>
+<tags>Techno, Electronic, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=4438</url>
+</record>
+<record>
+<id>412</id>
+<name>Radio Paradise
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=606612</url>
+</record>
+<record>
+<id>413</id>
+<name>HardBase.FM - 24h Hardstyle, Jumpstyle, Hardcore &#38; More - 128k MP3 
+</name>
+<tags>Techno, Electronic, Hardstyle</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377430</url>
+</record>
+<record>
+<id>414</id>
+<name>friskyRadio - feelin' frisky? [Best of Trance, Dance, Techno]
+</name>
+<tags>Electronic, dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1265734</url>
+</record>
+<record>
+<id>415</id>
+<name>Ballermann-Radio.com ...nur das ist Party!
+</name>
+<tags>Party, Mix, European, Disco</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=7176</url>
+</record>
+<record>
+<id>416</id>
+<name>AUDIOCREAM.COM - HITS NOW! (Plays All The Hits!)
+</name>
+<tags>Top, 40, Pop, Hip, Hop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1282028</url>
+</record>
+<record>
+<id>417</id>
+<name>80s, 80s, 80s! - S K Y . F M - Hear your classic favorites right here! (www.sky.fm)
+</name>
+<tags>80s, Pop, Rock, Decades</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=737152</url>
+</record>
+<record>
+<id>418</id>
+<name>CINEMIX
+</name>
+<tags>Soundtracks, Classical, New, Age</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=614375</url>
+</record>
+<record>
+<id>419</id>
+<name>@80s I streamed by pop-stream.de
+</name>
+<tags>80s</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280831</url>
+</record>
+<record>
+<id>420</id>
+<name>Radio21 Romania
+</name>
+<tags>Top, 40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=619580</url>
+</record>
+<record>
+<id>421</id>
+<name>Slow Radio (Love Songs &#38; Easy Listening)
+</name>
+<tags>Love, Romance, Easy, Listening, Po</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1063328</url>
+</record>
+<record>
+<id>422</id>
+<name>radioparty.pl - najlepsza klubowa muzyka w sieci || Techno Trance House Dance !!!
+</name>
+<tags>Partyboy</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=8060</url>
+</record>
+<record>
+<id>423</id>
+<name>Radioparty.pl - najlepsze party w sieci
+</name>
+<tags>Partyboy</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=8589</url>
+</record>
+<record>
+<id>424</id>
+<name>RMNradio....Music Fun and More!
+</name>
+<tags>Charts, Top, 40, Pop, 80, s, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=412141</url>
+</record>
+<record>
+<id>425</id>
+<name>HIT104 - Your Top 40 Channel
+</name>
+<tags>Pop, Dance, Rock, R&#38;B</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=663859</url>
+</record>
+<record>
+<id>426</id>
+<name>Radio ZET
+</name>
+<tags>AC</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=821</url>
+</record>
+<record>
+<id>427</id>
+<name>FG DJ RADIO
+</name>
+<tags>Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1277681</url>
+</record>
+<record>
+<id>428</id>
+<name>RockRadio1.Com - Classic Hard Rock &#38; Heavy Metal Mix, 24/7 Live Requests / www.rockradio1.com
+</name>
+<tags>Classic, Rock, Metal</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=6580</url>
+</record>
+<record>
+<id>429</id>
+<name>181.FM - POWER 181 -=[: The Hitz Channel :]=- www.181.fm
+</name>
+<tags>Pop, Top, 40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1283896</url>
+</record>
+<record>
+<id>430</id>
+<name>EuropaFM Romania
+</name>
+<tags>Ac</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377535</url>
+</record>
+<record>
+<id>431</id>
+<name>Venice Classic Radio - Beautiful Classical Music - Italia Italy
+</name>
+<tags>Classical</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280215</url>
+</record>
+<record>
+<id>432</id>
+<name>ChroniX Aggression - Loud &#38; Clear - www.chronixradio.com
+</name>
+<tags>METAL, ROCK, ALTERNATIVE</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377260</url>
+</record>
+<record>
+<id>433</id>
+<name>.977 The 80s Channel - 977MUSIC.COM - A Radical 80s Music Internet Radio Channel
+</name>
+<tags>80s, Pop, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1281066</url>
+</record>
+<record>
+<id>434</id>
+<name>   TOP 100  ReaLCasT
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280634</url>
+</record>
+<record>
+<id>435</id>
+<name>Bassdrive - Worldwide Drum and Bass Radio
+</name>
+<tags>Techno</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1128935</url>
+</record>
+<record>
+<id>436</id>
+<name>AH.FM - Leading Trance Radio
+</name>
+<tags>Electronic, Trance, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2000</url>
+</record>
+<record>
+<id>437</id>
+<name>Radio Desetka Beograd, Srbija :: Domaca, Zabavna Muzika
+</name>
+<tags>international, european</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377246</url>
+</record>
+<record>
+<id>438</id>
+<name>Radio-Heimatmelodie.de - Volksmusik, volkstuemliche Schlager und stuendlich Nachrichten
+</name>
+<tags>Volksmusik</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1377396</url>
+</record>
+<record>
+<id>439</id>
+<name>Radio S on-line (Uzivo)
+</name>
+<tags>Pop, Belgrade, Serbia, Beograd</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1278981</url>
+</record>
+<record>
+<id>440</id>
+<name>Kral Fm
+</name>
+<tags>World</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=450449</url>
+</record>
+<record>
+<id>441</id>
+<name>Ibiza Global Radio :
+</name>
+<tags>Electronic</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1469814</url>
+</record>
+<record>
+<id>442</id>
+<name>Ghana Waves Radio
+</name>
+<tags>World</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1083553</url>
+</record>
+<record>
+<id>443</id>
+<name>DamarFm.Com Jilet Gibi Radyo Turkce Turkish Arabesk
+</name>
+<tags>Turkce, Turkish, Arabesk, Damar</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=673937</url>
+</record>
+<record>
+<id>444</id>
+<name>89.3 KPCC - Southern California Public Radio
+</name>
+<tags>News, Talk, NPR</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=179361</url>
+</record>
+<record>
+<id>445</id>
+<name>Joy Turk
+</name>
+<tags>Turkish, Slow, Music</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=816</url>
+</record>
+<record>
+<id>446</id>
+<name>DjEyLM radyozergan  
+</name>
+<tags>t, rkce, k, rtce, pop, slow, arabesk</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=138495</url>
+</record>
+<record>
+<id>447</id>
+<name>Solo Piano - S K Y . F M - Musical journeys with piano masters and talented undiscovered pianists
+</name>
+<tags>Piano, Classical, New, Age</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=600682</url>
+</record>
+<record>
+<id>448</id>
+<name>1.FM - Dance Hits
+</name>
+<tags>Dance, House, Electro</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1279574</url>
+</record>
+<record>
+<id>449</id>
+<name>ElectricFM.com- America's Real Dance!
+</name>
+<tags>Dance, Electronic, Pop, Top, 40</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1061875</url>
+</record>
+<record>
+<id>450</id>
+<name>New Age - S K Y . F M - soothing sounds of new age and world music!
+</name>
+<tags>New, Age, World</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=412093</url>
+</record>
+<record>
+<id>451</id>
+<name>Chillout Dreams - D I G I T A L L Y - I M P O R T E D - relax to the sounds of dream and ibiza style
+</name>
+<tags>Electronic, Chillout, Dream</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1254140</url>
+</record>
+<record>
+<id>452</id>
+<name>Top Hits Music - S K Y . F M - who cares about the chart order, less rap &#38; more hits!
+</name>
+<tags>Pop, Top, 40, Dance, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=728272</url>
+</record>
+<record>
+<id>453</id>
+<name>COUNTRY 108 - Your Country Music Station - 24/7
+</name>
+<tags>Country</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=668943</url>
+</record>
+<record>
+<id>454</id>
+<name>Deep Mix Moscow Radio:  deepmix.ru 
+</name>
+<tags>Deep, House, Techno, Minimal, Tech</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1277499</url>
+</record>
+<record>
+<id>455</id>
+<name>CLASSICAL 102 - The First Class In Music
+</name>
+<tags>Classical</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=685098</url>
+</record>
+<record>
+<id>456</id>
+<name>Auto Dj By PJ  NeoOne
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=72919</url>
+</record>
+<record>
+<id>457</id>
+<name>Joy FM
+</name>
+<tags>Slow, Music</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=3730</url>
+</record>
+<record>
+<id>458</id>
+<name>CLASS FM
+</name>
+<tags>Live, Radio</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=334538</url>
+</record>
+<record>
+<id>459</id>
+<name>     Top 100
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1269378</url>
+</record>
+<record>
+<id>460</id>
+<name>Radio Television Caraibes Port-au-Prince Haiti
+</name>
+<tags>news</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=835414</url>
+</record>
+<record>
+<id>461</id>
+<name>TOP100  SOULNB.COM 
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=931065</url>
+</record>
+<record>
+<id>462</id>
+<name>  TOP100
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1504597</url>
+</record>
+<record>
+<id>463</id>
+<name>Station Info Not Recognized
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1275610</url>
+</record>
+<record>
+<id>464</id>
+<name>Radio Guerrilla - La Unica Radio Con Cojones
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=338298</url>
+</record>
+<record>
+<id>465</id>
+<name>Radio S on-line (Uzivo)
+</name>
+<tags>Pop, Rock, Belgrade, Serbia, Beogr</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1280330</url>
+</record>
+<record>
+<id>466</id>
+<name>RADIONL
+</name>
+<tags>Nederlandstalig, Hollands, Piraa</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1281197</url>
+</record>
+<record>
+<id>467</id>
+<name>RAC1. Des de Catalunya per tot el mon
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=150379</url>
+</record>
+<record>
+<id>468</id>
+<name>AUTO JEDI
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=216160</url>
+</record>
+<record>
+<id>469</id>
+<name>Sharmanka 104.0 Kiev - 128 kbps
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1270448</url>
+</record>
+<record>
+<id>470</id>
+<name>NeoFM
+</name>
+<tags>NeoFM</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=548973</url>
+</record>
+<record>
+<id>471</id>
+<name>Orban Opticodec-PC Encoder
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1395959</url>
+</record>
+<record>
+<id>472</id>
+<name>Jemne Melodie: jemne melodie live
+</name>
+<tags>Soft, AC</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1279685</url>
+</record>
+<record>
+<id>473</id>
+<name>Station Info Not Recognized
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=82880</url>
+</record>
+<record>
+<id>474</id>
+<name>FM4
+</name>
+<tags>Alternative, Mainstream</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=581319</url>
+</record>
+<record>
+<id>475</id>
+<name>TDI Radio Beograd (Belgrade,Serbia,Beograd,Srbija): MP3 48kbps
+</name>
+<tags>Top, 40, Pop, Dance, House</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=805726</url>
+</record>
+<record>
+<id>476</id>
+<name>www.ekoolfm.com  DjYuSuF iLe KoP KoP DakikaLaR TURKCE MUZiK TURKiSH HiT MUSiC EkoolFM E HOSGELDNIZ
+</name>
+<tags>damar, slow, pop, hareketli, remix</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=60941</url>
+</record>
+<record>
+<id>477</id>
+<name>Radio Guerrilla - La Unica Radio Con Cojones
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=6463</url>
+</record>
+<record>
+<id>478</id>
+<name>TodayFM Live 96k
+</name>
+<tags>pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1276765</url>
+</record>
+<record>
+<id>479</id>
+<name>LOUNGE-RADIO.COM - swiss made - enjoy this light summer-plate consisting of downtempo, chillout and 
+</name>
+<tags>Lounge, Ambient, Downtempo, Chill</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1288934</url>
+</record>
+<record>
+<id>480</id>
+<name>TURKIYE'NIN ILK VE EN IYI YABANCI MUZIK RADYOSU METRO FM
+</name>
+<tags>Yabanci, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=2709</url>
+</record>
+<record>
+<id>481</id>
+<name>SUPER FM - EN IYI MUZIK
+</name>
+<tags>Turkce, Pop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=4585</url>
+</record>
+<record>
+<id>482</id>
+<name>NeoFM
+</name>
+<tags>NeoFM</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=551052</url>
+</record>
+<record>
+<id>483</id>
+<name>RadioSantana Dance
+</name>
+<tags>House, &#38;, Dance</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=870511</url>
+</record>
+<record>
+<id>484</id>
+<name>MELODIA 99.2
+</name>
+<tags>Greek</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1274952</url>
+</record>
+<record>
+<id>485</id>
+<name>Metropolisradio 95.5
+</name>
+<tags>Various</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=754949</url>
+</record>
+<record>
+<id>486</id>
+<name>RFM - Powered by SenewebNetworks: RFM DAKAR 94 FM
+</name>
+<tags></tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1002906</url>
+</record>
+<record>
+<id>487</id>
+<name>FREQUENCE3 - www.frequence3.fr - No ads ! It's only HITS live from Paris France ! - French Webradio
+</name>
+<tags>Top, 40, Dance, Pop, Rock</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1266698</url>
+</record>
+<record>
+<id>488</id>
+<name>Metropol FM
+</name>
+<tags>World</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1294935</url>
+</record>
+<record>
+<id>489</id>
+<name>[386FM]  ~
+</name>
+<tags>KoreaPop</tags>
+<url>http://yp.shoutcast.com/sbin/tunein-station.pls?id=1271893</url>
+</record>
+</records>
