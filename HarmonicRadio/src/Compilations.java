@@ -21,7 +21,13 @@ public class Compilations
 		randomShuffle = connection.createRandomList();		
 		compilations.put("shuffle", randomShuffle);
 	}
-	
+	void updateRandom()
+	{
+		randomShuffle = compilations.get("shuffle");
+		randomShuffle = connection.createRandomList();
+		compilations.remove("shuffle");
+		compilations.put("shuffle", randomShuffle);	
+	}
 	//------------------------------------------------------------------//
 	// When a new station is being listened to, the list should be updated
 	// so that the recently listened to list is up to date.
