@@ -15,11 +15,10 @@ public class Compilations
 	public Compilations()
 	{
 		this.compilations = new HashMap<String, ArrayList<Stream>>();
-		//player = new StreamPlayer();
+		player = new StreamPlayer();
 		connection = new DatabaseConnect();
-		connection.createList();
-		connection.createStreamList();
-		randomShuffle = connection.returnList();
+		connection.createRecordList();
+		randomShuffle = connection.createRandomList();		
 		compilations.put("shuffle", randomShuffle);
 	}
 	

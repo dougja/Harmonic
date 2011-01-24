@@ -27,14 +27,14 @@ public class DatabaseConnect
 	 private Document doc = null;
 	 private ArrayList<Stream> urlList = null;
 	 private ArrayList<Stream> playlist = new ArrayList<Stream>();
-	 private HashMap<String, Integer> radioNames;
+	 private HashMap<String, Stream> radioNames;
 	 
 	 // This class should return streams from the XML files and added to playlists in compilations.
 	 // I think this class should be able to connect to the URL holding the xml file and download a fresh one.
 	 
 	 DatabaseConnect()
 	 {
-		radioNames = new HashMap<String, Integer>();
+		radioNames = new HashMap<String, Stream>();
 		
 		try
 		{
@@ -51,12 +51,31 @@ public class DatabaseConnect
 	 }
 	 
 	 
-	 public void createList()
+	 public void createRecordList()
 	 {
 		 nodes = doc.getElementsByTagName("record");
+		 for(int i = 0; i < nodes.getLength(); i++)
+		 {
+			 Node node = nodes.item(i);
+			 if (node.getNodeType() == Node.ELEMENT_NODE)
+			 {
+				 Element element = (Element) node;
+				 String name = getTagValue("name", element);
+				 String stream = getTagValue("url", element);
+				 String tags = getTagValue("tags", element);
+				 if(stream.equals("Invalid url") == false)
+				 {
+					 Stream url = new Stream(name,stream,tags,"xx",true);
+					 radioNames.put(name, url);
+				 }
+				 
+				 
+				 
+			 }
+		 }
 	 }
-	 
-	 void createStreamList()
+	 // creates a random play list with size 10
+	 ArrayList<Stream> createRandomList()
 	 {
 		 urlList = new ArrayList<Stream>();
 		 Random r = new Random(); 
@@ -70,16 +89,16 @@ public class DatabaseConnect
 				 Element element = (Element) node;
 				 String name = getTagValue("name", element);
 				 String stream = getTagValue("url", element);
-				 
+				 String tags = getTagValue("tags",element);
 				 if(stream.equals("Invalid url") == false)
 				 {
-					 Stream url = new Stream(name,stream,"xx","xx",true);
+					 Stream url = new Stream(name,stream,tags,"xx",true);
 					 urlList.add(url);
-					 radioNames.put(name, i);
 				 }
+					 
 			 }
 		 }
-		 printPlaylist(urlList);
+		 return urlList;
 	 }
 	 
 	 //returns a string depending on which tag you want
@@ -107,7 +126,7 @@ public class DatabaseConnect
 		 }
 		 return false;
 	}
-	 Random r = new Random(); 
+	
 	public ArrayList<Stream> returnPlaylist()
 	{
 		return playlist;
@@ -115,13 +134,13 @@ public class DatabaseConnect
 	 
 	public Stream findRadioStation(String name)
 	{
-		int i ;
+		Stream record;
 		if(radioNames.get(name) != null)
-			i = radioNames.get(name);
+			record = radioNames.get(name);
 		else return null;
 	 
-		Stream object = urlList.get(i);
-		return object;
+		
+		return record;
 	}
 	 
 	public void savePlaylist(String playlistName)
@@ -175,10 +194,7 @@ public class DatabaseConnect
 		 }
 	 }
 	 
-	 public ArrayList<Stream> returnList()
-	 {
-		 return urlList;
-	 }
+	 
 	 
 	 public void updateDatabase()
 	 {
