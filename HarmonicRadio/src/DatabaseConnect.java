@@ -25,7 +25,7 @@ public class DatabaseConnect
 	 private DocumentBuilderFactory factory = null;
 	 private DocumentBuilder builder = null;
 	 private Document doc = null;
-	 private ArrayList<Stream> urlList = null;
+	 private ArrayList<Stream> randomList;
 	 private ArrayList<Stream> playlist = new ArrayList<Stream>();
 	 private HashMap<String, Stream> radioNames;
 	 
@@ -35,7 +35,7 @@ public class DatabaseConnect
 	 DatabaseConnect()
 	 {
 		radioNames = new HashMap<String, Stream>();
-		
+		updateDatabase();
 		try
 		{
 		    xml = new File("streams.xml");
@@ -50,34 +50,34 @@ public class DatabaseConnect
 		}
 	 }
 	 
-	 
 	 public void createRecordList()
 	 {
 		 nodes = doc.getElementsByTagName("record");
+		 
 		 for(int i = 0; i < nodes.getLength(); i++)
 		 {
 			 Node node = nodes.item(i);
+			 
 			 if (node.getNodeType() == Node.ELEMENT_NODE)
 			 {
 				 Element element = (Element) node;
 				 String name = getTagValue("name", element);
 				 String stream = getTagValue("url", element);
 				 String tags = getTagValue("tags", element);
-				 if(stream.equals("Invalid url") == false)
+				 
+				 if (stream.equals("Invalid url") == false)
 				 {
 					 Stream url = new Stream(name,stream,tags,"xx",true);
 					 radioNames.put(name, url);
 				 }
-				 
-				 
-				 
 			 }
 		 }
 	 }
+	 
 	 // creates a random play list with size 10
 	 ArrayList<Stream> createRandomList()
 	 {
-		 urlList = new ArrayList<Stream>();
+		 randomList = new ArrayList<Stream>();
 		 Random r = new Random(); 
 		 for (int i = 0; i < 10; i++)
 		 {
@@ -93,12 +93,11 @@ public class DatabaseConnect
 				 if(stream.equals("Invalid url") == false)
 				 {
 					 Stream url = new Stream(name,stream,tags,"xx",true);
-					 urlList.add(url);
+					 randomList.add(url);
 				 }
-					 
 			 }
 		 }
-		 return urlList;
+		 return randomList;
 	 }
 	 
 	 //returns a string depending on which tag you want
@@ -106,43 +105,23 @@ public class DatabaseConnect
 	 {
 	    NodeList list = element.getElementsByTagName(tag).item(0).getChildNodes();
 	    Node node = (Node) list.item(0);
-	    if(node == null && tag.equals("name") == true) return "Unknown Radio";
-	    if(node == null && tag.equals("url") == true) return "Invalid url";
+	    if(node == null && tag.equals("name")) return "Unknown Radio";
+	    if(node == null && tag.equals("url")) return "Invalid url";
+	    if(node == null && tag.equals("tags")) return "Unknown Tags";
 	    
-	    return node.getNodeValue();    
+	    return node.getNodeValue();
 	 }
-	 
-	 boolean addToPlaylist(String name)
-	 {
-		 if(playlist.size() < 10)
-		 {
-			 Stream object = findRadioStation(name);
-			if(object != null)
-			{
-				playlist.add(object);
-				return true;
-			}
-			return false;	
-		 }
-		 return false;
-	}
 	
-	public ArrayList<Stream> returnPlaylist()
-	{
-		return playlist;
-	}
-	 
+	// Should be altered to find a list of "is it one of these stations.
 	public Stream findRadioStation(String name)
 	{
-		Stream record;
-		if(radioNames.get(name) != null)
-			record = radioNames.get(name);
-		else return null;
-	 
-		
+		Stream record = null;
+		if(radioNames.get(name) != null) record = radioNames.get(name);
+
 		return record;
 	}
-	 
+	
+	// This possibly needs changing to output an XML file.
 	public void savePlaylist(String playlistName)
 	{
 		try
@@ -188,14 +167,12 @@ public class DatabaseConnect
 	 
 	 void printPlaylist(ArrayList<Stream> list)
 	 {
-		 for(int i = 0;i < list.size();i++)
+		 for (int i = 0;i < list.size();i++)
 		 {
 			 System.out.println(list.get(i).getName());
 		 }
 	 }
-	 
-	 
-	 
+
 	 public void updateDatabase()
 	 {
 		 try
@@ -209,6 +186,12 @@ public class DatabaseConnect
 			 while ((line = in.readLine()) != null)
 			 {
 				 line = XMLEntities.unescapeHTML(line);				 
+				 
+				 if (!line.matches("<.*>.*</.*>"))
+				 {
+					 XMLEntities.parseBadLine(line);
+					 System.out.println(line);
+				 }
 				 out.write(line);
 				 out.newLine();
 				 out.flush();

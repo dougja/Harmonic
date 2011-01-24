@@ -1,0 +1,13 @@
+Current Issues:
+
+	- Fix Problem with newlines in XML.
+	- Add methods to create personal playlists.
+	- Add methods to load/save playlist to file.
+	- ensure that recently played tracks work with this.
+	- Rethink how the Compilations class tells the StreamPlayer to play.
+	- Update meeting minutes.
+
+Other stuff that needs to be considered:
+
+	- Algorithms to match country of IP to radio stations.
+	- What to do if player cannot receive station (access error: no data received) (timeout?)

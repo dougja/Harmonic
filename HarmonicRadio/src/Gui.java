@@ -35,7 +35,6 @@ class Gui implements ChangeListener
 		window.setVisible(true);		
 		
 		comp = new Compilations();
-		comp.choosePlaylist("shuffle");
 		ip = new IPSeeker();
 	}
 
@@ -57,7 +56,7 @@ class Gui implements ChangeListener
 		if (varControl == VarType.TUNER)
 		{
 			slider = new JSlider(0);	
-			slider.setMaximum(10);
+			slider.setMaximum(9);
 			slider.setMinimum(1);
 			slider.setMajorTickSpacing(1);
 			slider.setMaximumSize(new Dimension(535, 90));
@@ -96,22 +95,8 @@ class Gui implements ChangeListener
 		{
 			case VOLUME:; break;
 			case TUNER:
-			{
-				/*
-				if(comp != null)
-				{
-					System.out.println("1");
-					comp.stopStream();
-					System.out.println("2");
-				}
-				System.out.println("got here...");
-				
-				comp = new Compilations();
-				comp.choosePlaylist("shuffle");
-				*/
-				
+			{				
 				comp.play(source.getValue());
-				
 			}
 			break;
 		}

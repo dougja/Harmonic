@@ -263,7 +263,7 @@ public class XMLEntities
 		  StringBuffer result = new StringBuffer(s.length());
 		  int ampInd = s.indexOf("&");
 		  int lastEnd = 0;
-		  
+
 		  while (ampInd >= 0)
 		  {
 			  int nextAmp = s.indexOf("&", ampInd+1);
@@ -307,4 +307,10 @@ public class XMLEntities
 		  
 		  return result.toString();
 	 }
+	  
+	  public static String parseBadLine(String line)
+	  {
+		  
+		  return line;
+	  }
 }
